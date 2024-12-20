@@ -15,7 +15,7 @@ on:
     - '*'
     paths-ignore:
       - 'docs/**'
-
+  workflow_dispatch:
 defaults:
   run:
     shell: bash
