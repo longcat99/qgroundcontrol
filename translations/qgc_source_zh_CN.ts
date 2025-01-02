@@ -34,7 +34,7 @@
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponent.qml" line="74"/>
       <source>.</source>
       <comment>period for end of sentence</comment>
-      <translation>。</translation>
+      <translation>.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponent.qml" line="75"/>
@@ -52,7 +52,7 @@
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponent.qml" line="209"/>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponent.qml" line="209"/>
       <source>Invalid setting for FRAME_TYPE. Click to Reset.</source>
-      <translation>FRAME_TYPE 参数设置无效。点击重置</translation>
+      <translation>FRAME_TYPE 参数设置无效.点击重置</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponent.cc" line="19"/>
@@ -110,7 +110,7 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAutoPilotPlugin.cc" line="226"/>
       <source>WARNING: The flight board you are using has a critical service bulletin against it which advises against flying. For details see: https://discuss.cubepilot.org/t/sb-0000002-critical-service-bulletin-for-cubes-purchased-between-january-2019-to-present-do-not-fly/406</source>
-      <translation>警告！您正在使用的飞控板有一个紧急的不建议飞行的警告，详情请见： https://discuss.cubepilot.org/t/sb-0000002-critical-service-bulletin-for-cubes-purchased-between-january-2019-to-present-do-not-fly/406</translation>
+      <translation>警告！您正在使用的飞控板有一个紧急的不建议飞行的警告,详情请见： https://discuss.cubepilot.org/t/sb-0000002-critical-service-bulletin-for-cubes-purchased-between-january-2019-to-present-do-not-fly/406</translation>
     </message>
   </context>
   <context>
@@ -235,7 +235,7 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMCameraComponent.cc" line="31"/>
       <source>Camera setup is used to adjust camera and gimbal settings.</source>
-      <translation>相机设置，用于调整相机和云台的设置。</translation>
+      <translation>相机设置,用于调整相机和云台的设置.</translation>
     </message>
   </context>
   <context>
@@ -438,7 +438,7 @@
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="770"/>
       <source>Unable to change altitude, vehicle altitude not known.</source>
-      <translation>无法改变高度，飞行器的高度未知。</translation>
+      <translation>无法改变高度,飞行器的高度未知.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="775"/>
@@ -453,43 +453,43 @@
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="844"/>
       <source>Unable to takeoff, vehicle position not known.</source>
-      <translation>无法起飞，飞行器位置未知。</translation>
+      <translation>无法起飞,飞行器位置未知.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="854"/>
       <source>Unable to takeoff: Vehicle failed to change to Guided mode.</source>
-      <translation>无法起飞：飞行器无法进入引导模式。</translation>
+      <translation>无法起飞：飞行器无法进入引导模式.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="859"/>
       <source>Unable to takeoff: Vehicle failed to arm.</source>
-      <translation>无法起飞：飞行器解锁失败。</translation>
+      <translation>无法起飞：飞行器解锁失败.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="877"/>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="897"/>
       <source>Unable to start mission: Vehicle failed to change to Auto mode.</source>
-      <translation>无法开始任务：飞行器进入自动模式失败。</translation>
+      <translation>无法开始任务：飞行器进入自动模式失败.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="885"/>
       <source>Unable to start mission: Vehicle failed to change to Guided mode.</source>
-      <translation>无法开始任务：飞行器进入引导模式失败。</translation>
+      <translation>无法开始任务：飞行器进入引导模式失败.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="890"/>
       <source>Unable to start mission: Vehicle failed to arm.</source>
-      <translation>无法开始任务：飞行器解锁失败。</translation>
+      <translation>无法开始任务：飞行器解锁失败.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="975"/>
       <source>Follow failed: Home position not set.</source>
-      <translation>跟随失败：未设置起始点。</translation>
+      <translation>跟随失败：未设置起始点.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="985"/>
       <source>Follow failed: Ground station cannot provide required position information.</source>
-      <translation>跟随失败：地面站无法提供所需位置信息。</translation>
+      <translation>跟随失败：地面站无法提供所需位置信息.</translation>
     </message>
   </context>
   <context>
@@ -610,7 +610,7 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.cc" line="29"/>
       <source>Flight Modes Setup is used to configure the transmitter switches associated with Flight Modes.</source>
-      <translation>飞行模式设置，用于将遥控器上的开关与飞行模式相关联。</translation>
+      <translation>飞行模式设置,用于将遥控器上的开关与飞行模式相关联.</translation>
     </message>
   </context>
   <context>
@@ -693,7 +693,7 @@
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="224"/>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="224"/>
       <source>The vehicle parameters required for follow me are currently set in a way which is not supported. Using follow with this setup may lead to unpredictable/hazardous results.</source>
-      <translation>跟随模式的车辆参数设置不支持。使用此设置可能将导致不可预测或危险的结果。</translation>
+      <translation>跟随模式的车辆参数设置不支持.使用此设置可能将导致不可预测或危险的结果.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="230"/>
@@ -958,7 +958,7 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMHeliComponent.cc" line="26"/>
       <source>Heli Setup is used to setup parameters which are specific to a helicopter.</source>
-      <translation>直升机设置，用于设置一架直升机参数。</translation>
+      <translation>直升机设置,用于设置一架直升机参数.</translation>
     </message>
   </context>
   <context>
@@ -1007,7 +1007,7 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponent.cc" line="32"/>
       <source>Lights setup is used to adjust light output channels.</source>
-      <translation>指示灯设置，用于调节指示灯的输出通道。</translation>
+      <translation>指示灯设置,用于调节指示灯的输出通道.</translation>
     </message>
   </context>
   <context>
@@ -1115,7 +1115,7 @@
       <location filename="../src/AutoPilotPlugins/APM/APMMotorComponent.qml" line="122"/>
       <location filename="../src/AutoPilotPlugins/APM/APMMotorComponent.qml" line="122"/>
       <source>Moving the sliders will causes the motors to spin. Make sure you remove all props.</source>
-      <translation>移动滑杆会导致马达旋转，请先确保你已经卸下所有的螺旋桨。</translation>
+      <translation>移动滑杆会导致马达旋转,请先确保你已经卸下所有的螺旋桨.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMMotorComponent.qml" line="142"/>
@@ -1211,13 +1211,13 @@
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="267"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="267"/>
       <source>Click Calibrate to start, then:</source>
-      <translation>点击校准以开始，然后：</translation>
+      <translation>点击校准以开始,然后：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="268"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="268"/>
       <source>- Disconnect USB and battery so flight controller powers down</source>
-      <translation>- 断开 USB 和电池，切断飞控电源</translation>
+      <translation>- 断开 USB 和电池,切断飞控电源</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="269"/>
@@ -1235,7 +1235,7 @@
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="271"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="271"/>
       <source>- If using a flight controller with a safety button press it until it displays solid red</source>
-      <translation>-如果飞控上有接安全开关的话，长按直到红灯常亮</translation>
+      <translation>-如果飞控上有接安全开关的话,长按直到红灯常亮</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="272"/>
@@ -1353,7 +1353,7 @@
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="481"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="481"/>
       <source>If the battery voltage reported by the vehicle is largely different than the voltage read externally using a voltmeter you can adjust the voltage multiplier value to correct this. Click the Calculate button for help with calculating a new value.</source>
-      <translation>如果报告的电池电压比使用万用表测量出的电压不一致，那么你可以调整你的电压系数修正，点击’计算‘按钮获取新的电压值</translation>
+      <translation>如果报告的电池电压比使用万用表测量出的电压不一致,那么你可以调整你的电压系数修正,点击’计算‘按钮获取新的电压值</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="486"/>
@@ -1373,7 +1373,7 @@
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="512"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="512"/>
       <source>If the current draw reported by the vehicle is largely different than the current read externally using a current meter you can adjust the amps per volt value to correct this. Click the Calculate button for help with calculating a new value.</source>
-      <translation>如果飞机所报告的电流与使用电流表的电流读数有较大偏差的话，你可以调整“安培/伏特”的值来修正它。点击“计算”按钮可以帮助你计算新的参数值。</translation>
+      <translation>如果飞机所报告的电流与使用电流表的电流读数有较大偏差的话,你可以调整“安培/伏特”的值来修正它.点击“计算”按钮可以帮助你计算新的参数值.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="517"/>
@@ -1385,13 +1385,13 @@
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="532"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="532"/>
       <source>If the vehicle reports a high current read when there is little or no current going through it, adjust the Amps Offset. It should be equal to the voltage reported by the sensor when the current is zero.</source>
-      <translation>若车辆没有电流通过而传感器读数过高，请调整电流补偿。此值应等于零电流时传感器报告的电压值。</translation>
+      <translation>若车辆没有电流通过而传感器读数过高,请调整电流补偿.此值应等于零电流时传感器报告的电压值.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="563"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="563"/>
       <source>Measure battery voltage using an external voltmeter and enter the value below. Click Calculate to set the new adjusted voltage multiplier.</source>
-      <translation>使用外部电压表测量电池电压，并在下方输入测量值。点击“计算”设置调整后的电压乘数。</translation>
+      <translation>使用外部电压表测量电池电压,并在下方输入测量值.点击“计算”设置调整后的电压乘数.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="572"/>
@@ -1417,7 +1417,7 @@
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="625"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="625"/>
       <source>Measure current draw using an external current meter and enter the value below. Click Calculate to set the new amps per volt value.</source>
-      <translation>使用外部电流计测量当前牵引电流并输入。单击“计算”义设置新安培数。</translation>
+      <translation>使用外部电流计测量当前牵引电流并输入.单击“计算”义设置新安培数.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="634"/>
@@ -1439,7 +1439,7 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.cc" line="29"/>
       <source>The Power Component is used to setup battery parameters.</source>
-      <translation>电源组件用来设置电池相关的参数。</translation>
+      <translation>电源组件用来设置电池相关的参数.</translation>
     </message>
   </context>
   <context>
@@ -1479,7 +1479,7 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMRadioComponent.cc" line="37"/>
       <source>The Radio Component is used to setup which channels on your RC Transmitter you will use for each vehicle control such as Roll, Pitch, Yaw and Throttle. It also allows you to assign switches and dials to the various flight modes. Prior to flight you must also calibrate the extents for all of your channels.</source>
-      <translation>遥控器组件用来设置你的遥控器上的各个控制通道如：横滚，俯仰，偏航和油门。另外还可以分配开关通道映射飞行模式。在起飞之前您必须先校准遥控器的各个通道。</translation>
+      <translation>遥控器组件用来设置你的遥控器上的各个控制通道如：横滚,俯仰,偏航和油门.另外还可以分配开关通道映射飞行模式.在起飞之前您必须先校准遥控器的各个通道.</translation>
     </message>
   </context>
   <context>
@@ -1779,12 +1779,12 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.cc" line="33"/>
       <source>Safety Setup is used to setup failsafe actions, leak detection, and arming checks.</source>
-      <translation>安全设置用来设置失控保护动作，异常检测和解锁检查。</translation>
+      <translation>安全设置用来设置失控保护动作,异常检测和解锁检查.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.cc" line="44"/>
       <source>Safety Setup is used to setup triggers for Return to Land as well as the settings for Return to Land itself.</source>
-      <translation>安全设置，用于设置返航和着陆功能的触发器，同时也用于设置返航和着陆功能本身。</translation>
+      <translation>安全设置,用于设置返航和着陆功能的触发器,同时也用于设置返航和着陆功能本身.</translation>
     </message>
   </context>
   <context>
@@ -1936,7 +1936,7 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentCopter.qml" line="565"/>
       <source>Warning: Turning off arming checks can lead to loss of Vehicle control.</source>
-      <translation>警告：关闭解锁检查有可能导致飞机失控。</translation>
+      <translation>警告：关闭解锁检查有可能导致飞机失控.</translation>
     </message>
   </context>
   <context>
@@ -2232,7 +2232,7 @@
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummary.qml" line="120"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummary.qml" line="120"/>
       <source>Altitude,Circle</source>
-      <translation>定高，绕圈</translation>
+      <translation>定高,绕圈</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummary.qml" line="131"/>
@@ -2335,7 +2335,7 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummaryCopter.qml" line="80"/>
       <source>Altitude,Circle</source>
-      <translation>定高，绕圈</translation>
+      <translation>定高,绕圈</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummaryCopter.qml" line="86"/>
@@ -2533,61 +2533,61 @@
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="40"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="40"/>
       <source>If mounted in the direction of flight, select None.</source>
-      <translation>如果安装与飞行方向一致, 请选择 "None"。</translation>
+      <translation>如果安装与飞行方向一致, 请选择 "None".</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="41"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="41"/>
       <source>Before calibrating make sure rotation settings are correct. </source>
-      <translation>校准前，请确保方向设置正确无误。 </translation>
+      <translation>校准前,请确保方向设置正确无误. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="42"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="42"/>
       <source>If the compass or GPS module is mounted in flight direction, leave the default value (None)</source>
-      <translation>如果罗盘和GPS模块都是以飞行方向安装的话，直接用默认值（None）</translation>
+      <translation>如果罗盘和GPS模块都是以飞行方向安装的话,直接用默认值（None）</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="44"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="44"/>
       <source>For Compass calibration you will need to rotate your vehicle through a number of positions.</source>
-      <translation>要校准罗盘，你需要在几个不同的位置旋转你的飞机。</translation>
+      <translation>要校准罗盘,你需要在几个不同的位置旋转你的飞机.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="45"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="45"/>
       <source>For Gyroscope calibration you will need to place your vehicle on a surface and leave it still.</source>
-      <translation>要校准陀螺仪，你需要将你的飞机放在平面上，并保持静止。</translation>
+      <translation>要校准陀螺仪,你需要将你的飞机放在平面上,并保持静止.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="46"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="46"/>
       <source>For Accelerometer calibration you will need to place your vehicle on all six sides on a perfectly level surface and hold it still in each orientation for a few seconds.</source>
-      <translation>要校准加速度计，你需要将你的飞机6个面分别置于水平位置上，并静止数秒。</translation>
+      <translation>要校准加速度计,你需要将你的飞机6个面分别置于水平位置上,并静止数秒.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="47"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="47"/>
       <source>To level the horizon you need to place the vehicle in its level flight position and press OK.</source>
-      <translation>要校平地平线，你需要将飞机置于平飞位置，然后点OK。</translation>
+      <translation>要校平地平线,你需要将飞机置于平飞位置,然后点OK.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="49"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="49"/>
       <source>Start the individual calibration steps by clicking one of the buttons to the left.</source>
-      <translation>要开始某个校准步骤，请点击左侧的一个按钮。</translation>
+      <translation>要开始某个校准步骤,请点击左侧的一个按钮.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="57"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="57"/>
       <source>The calibration for Compass %1 appears to be poor. </source>
-      <translation>罗盘 %1 的校准似乎不佳。 </translation>
+      <translation>罗盘 %1 的校准似乎不佳. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="58"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="58"/>
       <source>Check the compass position within your vehicle and re-do the calibration.</source>
-      <translation>请检查你飞机内的罗盘位置，然后重做校准。</translation>
+      <translation>请检查你飞机内的罗盘位置,然后重做校准.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="95"/>
@@ -2639,7 +2639,7 @@
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="185"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="185"/>
       <source>Waiting for Vehicle to response to Cancel. This may take a few seconds.</source>
-      <translation>等待飞机响应以取消。这可能需要几秒钟。</translation>
+      <translation>等待飞机响应以取消.这可能需要几秒钟.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="119"/>
@@ -2665,7 +2665,7 @@
       <source>Shown in the indicator bars is the quality of the calibration for each compass.
 
 </source>
-      <translation>在指示条中显示的是每个罗盘校准的精度。
+      <translation>在指示条中显示的是每个罗盘校准的精度.
 
 </translation>
     </message>
@@ -2698,7 +2698,7 @@
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="282"/>
       <source>- Green indicates a well functioning compass.
 </source>
-      <translation>- 绿色表示罗盘工作状态良好。
+      <translation>- 绿色表示罗盘工作状态良好.
 </translation>
     </message>
     <message>
@@ -2706,7 +2706,7 @@
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="283"/>
       <source>- Yellow indicates a questionable compass or calibration.
 </source>
-      <translation>- 黄色代表罗盘硬件或者校准有问题。
+      <translation>- 黄色代表罗盘硬件或者校准有问题.
 </translation>
     </message>
     <message>
@@ -2715,7 +2715,7 @@
       <source>- Red indicates a compass which should not be used.
 
 </source>
-      <translation>- 红色表示不应使用的罗盘。
+      <translation>- 红色表示不应使用的罗盘.
 
 </translation>
     </message>
@@ -2725,7 +2725,7 @@
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="285"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="313"/>
       <source>YOU MUST REBOOT YOUR VEHICLE AFTER EACH CALIBRATION.</source>
-      <translation>每次校准后，您必须重新启动飞机！</translation>
+      <translation>每次校准后,您必须重新启动飞机！</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="289"/>
@@ -2787,55 +2787,55 @@
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="513"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="513"/>
       <source>This is recommended for vehicles that have only an internal compass and on vehicles where there is significant interference on the compass from the motors, power wires, etc. </source>
-      <translation>推荐在飞机上只装了一个内置罗盘，而且特别容易被电机、电源线等干扰的的情况下，采取这种措施。 </translation>
+      <translation>推荐在飞机上只装了一个内置罗盘,而且特别容易被电机、电源线等干扰的的情况下,采取这种措施. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="514"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="514"/>
       <source>CompassMot only works well if you have a battery current monitor because the magnetic interference is linear with current drawn. </source>
-      <translation>CompassMot罗盘电机补偿只有配合电流监测模块时才能良好工作，因为电磁干扰与电流的关系是线性的。 </translation>
+      <translation>CompassMot罗盘电机补偿只有配合电流监测模块时才能良好工作,因为电磁干扰与电流的关系是线性的. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="515"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="515"/>
       <source>It is technically possible to set-up CompassMot using throttle but this is not recommended.</source>
-      <translation>技术上来说是可以使用油门来设定CompassMot补偿，但不推荐。</translation>
+      <translation>技术上来说是可以使用油门来设定CompassMot补偿,但不推荐.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="522"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="522"/>
       <source>Disconnect your props, flip them over and rotate them one position around the frame. </source>
-      <translation>拆下螺旋桨，翻个面，然后以机架为中心把它们串动一个位置装好。 </translation>
+      <translation>拆下螺旋桨,翻个面,然后以机架为中心把它们串动一个位置装好. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="523"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="523"/>
       <source>In this configuration they should push the copter down into the ground when the throttle is raised.</source>
-      <translation>在这种装配下，推油门时，飞行器会被推向地面。</translation>
+      <translation>在这种装配下,推油门时,飞行器会被推向地面.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="530"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="530"/>
       <source>Secure the copter (perhaps with tape) so that it does not move.</source>
-      <translation>固定好飞行器（可以使用胶带）使其不能移动。</translation>
+      <translation>固定好飞行器（可以使用胶带）使其不能移动.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="537"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="537"/>
       <source>Turn on your transmitter and keep throttle at zero.</source>
-      <translation>打开遥控发射机，并保持油门杆在最低位置。</translation>
+      <translation>打开遥控发射机,并保持油门杆在最低位置.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="544"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="544"/>
       <source>Click Ok to start CompassMot calibration.</source>
-      <translation>点击OK键启动CompassMot罗盘电机校准。</translation>
+      <translation>点击OK键启动CompassMot罗盘电机校准.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="566"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="566"/>
       <source>To level the horizon you need to place the vehicle in its level flight position and press Ok.</source>
-      <translation>要校平地平线，你需要将飞机置于平飞位置，然后点OK。</translation>
+      <translation>要校平地平线,你需要将飞机置于平飞位置,然后点OK.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="588"/>
@@ -2853,13 +2853,13 @@
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="589"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="589"/>
       <source>Pressure calibration will set the %1 to zero at the current pressure reading. %2</source>
-      <translation>压力校准会将现在的压力读数%1设置为0。%2</translation>
+      <translation>压力校准会将现在的压力读数%1设置为0.%2</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="590"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="590"/>
       <source>To calibrate the airspeed sensor shield it from the wind. Do not touch the sensor or obstruct any holes during the calibration.</source>
-      <translation>要校准空速传感器，需要将它遮住，避免风的干扰。在校准过程中，请勿触摸传感器或堵塞任何孔。</translation>
+      <translation>要校准空速传感器,需要将它遮住,避免风的干扰.在校准过程中,请勿触摸传感器或堵塞任何孔.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="610"/>
@@ -2867,9 +2867,9 @@
       <source>For Gyroscope calibration you will need to place your vehicle on a surface and leave it still.
 
 Click Ok to start calibration.</source>
-      <translation>要校准陀螺仪，你需要将你的飞机放在平面上，并保持静止。
+      <translation>要校准陀螺仪,你需要将你的飞机放在平面上,并保持静止.
 
-点击“OK”开始校准。</translation>
+点击“OK”开始校准.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="632"/>
@@ -2887,7 +2887,7 @@ Click Ok to start calibration.</source>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="645"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="645"/>
       <source>Accelerometer must be calibrated prior to Compass.</source>
-      <translation>加速度计必须在罗盘之前校准。</translation>
+      <translation>加速度计必须在罗盘之前校准.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="656"/>
@@ -2899,7 +2899,7 @@ Click Ok to start calibration.</source>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="660"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="660"/>
       <source>Accelerometer must be calibrated prior to Level Horizon.</source>
-      <translation>加速度计必须在飞机校平地平线之前校准。</translation>
+      <translation>加速度计必须在飞机校平地平线之前校准.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="669"/>
@@ -2989,7 +2989,7 @@ Click Ok to start calibration.</source>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.cc" line="33"/>
       <source>Sensors Setup is used to calibrate the sensors within your vehicle.</source>
-      <translation>传感器设置，用于校准你的飞机内的传感器。</translation>
+      <translation>传感器设置,用于校准你的飞机内的传感器.</translation>
     </message>
   </context>
   <context>
@@ -3002,17 +3002,17 @@ Click Ok to start calibration.</source>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponentController.cc" line="203"/>
       <source>Calibration failed. Calibration log will be displayed.</source>
-      <translation>校准失败。将显示校准日志。</translation>
+      <translation>校准失败.将显示校准日志.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponentController.cc" line="267"/>
       <source>Rotate the vehicle randomly around all axes until the progress bar fills all the way to the right .</source>
-      <translation>在每个轴向上随机旋转飞机，一直到进度条完全填满。</translation>
+      <translation>在每个轴向上随机旋转飞机,一直到进度条完全填满.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponentController.cc" line="347"/>
       <source>Raise the throttle slowly to between 50% ~ 75% (the props will spin!) for 5 ~ 10 seconds.</source>
-      <translation>慢慢提高油门到 50% ~ 75% （螺旋桨将会旋转！） 5 ~ 10 秒。</translation>
+      <translation>慢慢提高油门到 50% ~ 75% （螺旋桨将会旋转！） 5 ~ 10 秒.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponentController.cc" line="348"/>
@@ -3027,7 +3027,7 @@ Click Ok to start calibration.</source>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponentController.cc" line="358"/>
       <source>Hold the vehicle in its level flight position.</source>
-      <translation>将飞机保持在其水平飞行位置。</translation>
+      <translation>将飞机保持在其水平飞行位置.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponentController.cc" line="367"/>
@@ -3052,7 +3052,7 @@ Click Ok to start calibration.</source>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponentController.cc" line="302"/>
       <source>Hold still in the current orientation and press Next when ready</source>
-      <translation>稳定保持当前方向，准备好后点击下一步</translation>
+      <translation>稳定保持当前方向,准备好后点击下一步</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponentController.cc" line="558"/>
@@ -3072,7 +3072,7 @@ Click Ok to start calibration.</source>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponentController.cc" line="580"/>
       <source>YOU MUST REBOOT YOUR VEHICLE NOW FOR NEW SETTINGS TO TAKE AFFECT</source>
-      <translation>您现在必须重新启动您的飞机，才能使新的设置生效！</translation>
+      <translation>您现在必须重新启动您的飞机,才能使新的设置生效！</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponentController.cc" line="583"/>
@@ -3082,7 +3082,7 @@ Click Ok to start calibration.</source>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponentController.cc" line="584"/>
       <source>YOU MUST REBOOT YOUR VEHICLE NOW AND RETRY COMPASS CALIBRATION PRIOR TO FLIGHT</source>
-      <translation>您现在必须重新启动您的飞机，并在飞行前重试罗盘校准！</translation>
+      <translation>您现在必须重新启动您的飞机,并在飞行前重试罗盘校准！</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponentController.cc" line="588"/>
@@ -3217,20 +3217,20 @@ Click Ok to start calibration.</source>
       <source>Moving the sliders will cause the motors to spin. Make sure the motors and propellers are clear from obstructions! The direction of the motor rotation is dependent on how the three phases of the motor are physically connected to the ESCs (if any two wires are swapped, the direction of rotation will flip). Because we cannot guarantee what order the phases are connected, the motor directions must be configured in software. When a slider is moved DOWN, the thruster should push air/water TOWARD the cable entering the housing. Click the checkbox to reverse the direction of the corresponding thruster.
 
 Blue Robotics thrusters are lubricated by water and are not designed to be run in air. Testing the thrusters in air is ok at low speeds for short periods of time. Extended operation of Blue Robotics in air may lead to overheating and permanent damage. Without water lubrication, Blue Robotics thrusters may also make some unpleasant noises when operated in air; this is normal.</source>
-      <translation>拖动滑块会使电机开始工作。确保电机和桨叶没有被阻塞住！电机旋转的方向取决于电机的三根线是以何顺序连接到电调的（任意交换两根线都会使电机转向反转）。我们无法保证电机是以什么相位与电调连接，所以电机方向必须支持软件配置。当滑块拖动到低时，电机应当将水或者空气吸入管道并流进设备。勾选复选框可以反转该电机的转向。
-Blue Robotics的设备设计使用水来润滑，并非可以空转。但是可以在低速下空转进行短时间的测试。其它空转操作可能会使设备过热并导致永久损坏。在没有水作为润滑时，设备产生一些噪音是正常的。</translation>
+      <translation>拖动滑块会使电机开始工作.确保电机和桨叶没有被阻塞住！电机旋转的方向取决于电机的三根线是以何顺序连接到电调的（任意交换两根线都会使电机转向反转）.我们无法保证电机是以什么相位与电调连接,所以电机方向必须支持软件配置.当滑块拖动到低时,电机应当将水或者空气吸入管道并流进设备.勾选复选框可以反转该电机的转向.
+Blue Robotics的设备设计使用水来润滑,并非可以空转.但是可以在低速下空转进行短时间的测试.其它空转操作可能会使设备过热并导致永久损坏.在没有水作为润滑时,设备产生一些噪音是正常的.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSubMotorComponent.qml" line="206"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSubMotorComponent.qml" line="206"/>
       <source>A 10 second coooldown is required before testing again, please stand by...</source>
-      <translation>再次测试之前需要进行10秒钟的冷却时间，请稍后...</translation>
+      <translation>再次测试之前需要进行10秒钟的冷却时间,请稍后...</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSubMotorComponent.qml" line="207"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSubMotorComponent.qml" line="207"/>
       <source>Slide this switch to arm the vehicle and enable the motor test (CAUTION!)</source>
-      <translation>滑动此开关以解锁载具，并且启动电机电机测试(小心!)</translation>
+      <translation>滑动此开关以解锁载具,并且启动电机电机测试(小心!)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSubMotorComponent.qml" line="217"/>
@@ -3243,8 +3243,8 @@ Blue Robotics的设备设计使用水来润滑，并非可以空转。但是可�
       <location filename="../src/AutoPilotPlugins/APM/APMSubMotorComponent.qml" line="225"/>
       <source>This will attempt to automatically detect the direction (normal/reversed) of your thrusters.
 Please place your vehicle in water, click the button, and wait. Note that the thrusters still need to be connected to the correct outputs (thrusters 2 and 3 can&apos;t be swapped, for example).</source>
-      <translation>这将尝试自动检测推进器的方向（正常/反向）。
-请将你的模型放在水中，点击按钮后等待。请注意，推进器必须连接到正确相对应的输出（例如：推进器2和3不可以被交换）</translation>
+      <translation>这将尝试自动检测推进器的方向（正常/反向）.
+请将你的模型放在水中,点击按钮后等待.请注意,推进器必须连接到正确相对应的输出（例如：推进器2和3不可以被交换）</translation>
     </message>
   </context>
   <context>
@@ -3257,7 +3257,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMTuningComponent.cc" line="29"/>
       <source>Tuning Setup is used to tune the flight characteristics of the Vehicle.</source>
-      <translation>调试设置，用于调整飞机的飞行特性。</translation>
+      <translation>调试设置,用于调整飞机的飞行特性.</translation>
     </message>
   </context>
   <context>
@@ -3278,7 +3278,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
       <location filename="../src/AutoPilotPlugins/APM/APMTuningComponentCopter.qml" line="154"/>
       <location filename="../src/AutoPilotPlugins/APM/APMTuningComponentCopter.qml" line="154"/>
       <source>Slide to the right if the copter is sluggish or slide to the left if the copter is twitchy</source>
-      <translation>如果飞行器反应较慢则向右滑动，反应太快则向左滑动。</translation>
+      <translation>如果飞行器反应较慢则向右滑动,反应太快则向左滑动.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMTuningComponentCopter.qml" line="182"/>
@@ -3290,7 +3290,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
       <location filename="../src/AutoPilotPlugins/APM/APMTuningComponentCopter.qml" line="187"/>
       <location filename="../src/AutoPilotPlugins/APM/APMTuningComponentCopter.qml" line="187"/>
       <source>Slide to the right to climb more aggressively or slide to the left to climb more gently</source>
-      <translation>向右滑动让爬升更激进，向左让爬升更温柔。</translation>
+      <translation>向右滑动让爬升更激进,向左让爬升更温柔.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMTuningComponentCopter.qml" line="215"/>
@@ -3302,7 +3302,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
       <location filename="../src/AutoPilotPlugins/APM/APMTuningComponentCopter.qml" line="220"/>
       <location filename="../src/AutoPilotPlugins/APM/APMTuningComponentCopter.qml" line="220"/>
       <source>Slide to the left for soft control, slide to the right for crisp control</source>
-      <translation>向左滑动获得更柔和的控制感，向右则产生更利落的控制感。</translation>
+      <translation>向左滑动获得更柔和的控制感,向右则产生更利落的控制感.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMTuningComponentCopter.qml" line="245"/>
@@ -3482,7 +3482,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
       <location filename="../src/AutoPilotPlugins/PX4/AirframeComponent.qml" line="45"/>
       <location filename="../src/AutoPilotPlugins/PX4/AirframeComponent.qml" line="45"/>
       <source>Your vehicle is using a custom airframe configuration. </source>
-      <translation>您的飞机正在使用自定义机身配置。 </translation>
+      <translation>您的飞机正在使用自定义机身配置. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/AirframeComponent.qml" line="46"/>
@@ -3490,14 +3490,14 @@ Please place your vehicle in water, click the button, and wait. Note that the th
       <source>This configuration can only be modified through the Parameter Editor.
 
 </source>
-      <translation>此配置只能通过参数编辑器进行修改。
+      <translation>此配置只能通过参数编辑器进行修改.
 </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/AirframeComponent.qml" line="47"/>
       <location filename="../src/AutoPilotPlugins/PX4/AirframeComponent.qml" line="47"/>
       <source>If you want to reset your airframe configuration and select a standard configuration, click &apos;Reset&apos; below.</source>
-      <translation>如果你想重置你的机身配置，并且同时选择一个标准配置，点击上方“重置”。</translation>
+      <translation>如果你想重置你的机身配置,并且同时选择一个标准配置,点击上方“重置”.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/AirframeComponent.qml" line="50"/>
@@ -3509,27 +3509,27 @@ Please place your vehicle in water, click the button, and wait. Note that the th
       <location filename="../src/AutoPilotPlugins/PX4/AirframeComponent.qml" line="114"/>
       <location filename="../src/AutoPilotPlugins/PX4/AirframeComponent.qml" line="114"/>
       <source>Clicking &apos;Apply&apos; will save the changes you have made to your airframe configuration.&lt;br&gt;&lt;br&gt;All vehicle parameters other than Radio Calibration will be reset.&lt;br&gt;&lt;br&gt;Your vehicle will also be restarted in order to complete the process.</source>
-      <translation>点击’Apply’（应用）将保存你所修改的机身配置。
-除无线电校准之外的所有参数会被重制。
-你的模型也将重新启动以完成重制。</translation>
+      <translation>点击’Apply’（应用）将保存你所修改的机身配置.
+除无线电校准之外的所有参数会被重制.
+你的模型也将重新启动以完成重制.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/AirframeComponent.qml" line="133"/>
       <location filename="../src/AutoPilotPlugins/PX4/AirframeComponent.qml" line="133"/>
       <source>To change this configuration, select the desired airframe below then click &apos;Apply and Restart&apos;.</source>
-      <translation>要更改此配置，请在下方选择所需的机型，然后点击“应用并重启”。</translation>
+      <translation>要更改此配置,请在下方选择所需的机型,然后点击“应用并重启”.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/AirframeComponent.qml" line="131"/>
       <location filename="../src/AutoPilotPlugins/PX4/AirframeComponent.qml" line="131"/>
       <source>You&apos;ve connected a %1.</source>
-      <translation>你已经连接了 %1。</translation>
+      <translation>你已经连接了 %1.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/AirframeComponent.qml" line="132"/>
       <location filename="../src/AutoPilotPlugins/PX4/AirframeComponent.qml" line="132"/>
       <source>Airframe is not set.</source>
-      <translation>未设定机架。</translation>
+      <translation>未设定机架.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/AirframeComponent.qml" line="141"/>
@@ -3547,7 +3547,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/AirframeComponent.cc" line="31"/>
       <source>Airframe Setup is used to select the airframe that matches your vehicle. This will in turn set up the various tuning values for flight parameters.</source>
-      <translation>机架设置可用于选择与您的设备相匹配的机架构型。这将设置并可能改变一些飞行参数的数值。</translation>
+      <translation>机架设置可用于选择与您的设备相匹配的机架构型.这将设置并可能改变一些飞行参数的数值.</translation>
     </message>
   </context>
   <context>
@@ -3555,7 +3555,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/AirframeComponentController.cc" line="85"/>
       <source>You cannot change airframe configuration while connected to multiple vehicles.</source>
-      <translation>你不能在同时连接多部飞机时，改变机身配置。</translation>
+      <translation>你不能在同时连接多部飞机时,改变机身配置.</translation>
     </message>
   </context>
   <context>
@@ -3636,7 +3636,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/Airmap/AirmapSettings.qml" line="114"/>
       <source>All saved ruleset answers will be cleared. Is this really what you want?</source>
-      <translation>所有保存的规则集答案将被清除。确认这是你想做的吗？</translation>
+      <translation>所有保存的规则集答案将被清除.确认这是你想做的吗？</translation>
     </message>
     <message>
       <location filename="../src/Airmap/AirmapSettings.qml" line="136"/>
@@ -3986,7 +3986,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/Airmap/AirspaceControl.qml" line="285"/>
       <source>Advisories based on the selected rules.</source>
-      <translation>根据选定规则提供咨询意见。</translation>
+      <translation>根据选定规则提供咨询意见.</translation>
     </message>
     <message>
       <location filename="../src/Airmap/AirspaceControl.qml" line="326"/>
@@ -4247,7 +4247,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/AutoPilotPlugins/AutoPilotPlugin.cc" line="74"/>
       <source>One or more vehicle components require setup prior to flight.</source>
-      <translation>一个或多个飞机组件需要在飞行前设置。</translation>
+      <translation>一个或多个飞机组件需要在飞行前设置.</translation>
     </message>
   </context>
   <context>
@@ -4505,7 +4505,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="283"/>
       <source>This board is using a microcontroller with faulty silicon and an incorrect configuration and should be put out of service.</source>
-      <translation>该主板使用的微控制器芯片存在缺陷且配置错误，应该停止使用。</translation>
+      <translation>该主板使用的微控制器芯片存在缺陷且配置错误,应该停止使用.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="286"/>
@@ -4709,7 +4709,7 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/AutoPilotPlugins/PX4/CameraComponent.qml" line="88"/>
       <location filename="../src/AutoPilotPlugins/PX4/CameraComponent.qml" line="88"/>
       <source>Vehicle must be restarted for changes to take effect.</source>
-      <translation>飞机必须重新启动以使设置生效。</translation>
+      <translation>飞机必须重新启动以使设置生效.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/CameraComponent.qml" line="91"/>
@@ -4779,7 +4779,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/CameraComponent.cc" line="32"/>
       <source>Camera setup is used to adjust camera and gimbal settings.</source>
-      <translation>相机设置，用于调整相机和云台设置。</translation>
+      <translation>相机设置,用于调整相机和云台设置.</translation>
     </message>
   </context>
   <context>
@@ -4879,7 +4879,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightMap/Widgets/CenterMapDropButton.qml" line="189"/>
       <source>Launch</source>
-      <translation>发射，起飞</translation>
+      <translation>发射,起飞</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/CenterMapDropButton.qml" line="200"/>
@@ -4922,7 +4922,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightMap/Widgets/CenterMapDropPanel.qml" line="54"/>
       <source>Launch</source>
-      <translation>发射，起飞</translation>
+      <translation>发射,起飞</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/CenterMapDropPanel.qml" line="64"/>
@@ -4964,7 +4964,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/MissionManager/ComplexMissionItem.cc" line="69"/>
       <source>&apos;%1&apos; is a built-in preset which cannot be deleted.</source>
-      <translation>‘%1’ 是一个内置预设，不能删除。</translation>
+      <translation>‘%1’ 是一个内置预设,不能删除.</translation>
     </message>
   </context>
   <context>
@@ -5020,7 +5020,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/PlanView/CorridorScanEditor.qml" line="18"/>
       <source>Use the Polyline Tools to create the polyline which defines the corridor.</source>
-      <translation>使用多段线工具可以创建定义道路的多段线。 </translation>
+      <translation>使用多段线工具可以创建定义道路的多段线. </translation>
     </message>
     <message>
       <location filename="../src/PlanView/CorridorScanEditor.qml" line="56"/>
@@ -5211,7 +5211,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/DefaultChecklist.qml" line="54"/>
       <source>Move all control surfaces. Did they work properly?</source>
-      <translation>请尝试移动所有舵面。它们都能正常工作吗？</translation>
+      <translation>请尝试移动所有舵面.它们都能正常工作吗？</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/DefaultChecklist.qml" line="58"/>
@@ -5221,7 +5221,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/DefaultChecklist.qml" line="59"/>
       <source>Propellers free? Then throttle up gently. Working properly?</source>
-      <translation>螺旋桨周围是否有足够的空间？轻推油门，观察是否一切正常？</translation>
+      <translation>螺旋桨周围是否有足够的空间？轻推油门,观察是否一切正常？</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/DefaultChecklist.qml" line="63"/>
@@ -5231,7 +5231,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/DefaultChecklist.qml" line="64"/>
       <source>Please confirm mission is valid (waypoints valid, no terrain collision).</source>
-      <translation>请确认飞行任务是否可用（航点有效，没有地形障碍）。</translation>
+      <translation>请确认飞行任务是否可用（航点有效,没有地形障碍）.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/DefaultChecklist.qml" line="72"/>
@@ -5385,7 +5385,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AutoPilotPlugins/Common/ESP8266Component.qml" line="452"/>
       <source>This will restart the WiFi Bridge so the settings you&apos;ve changed can take effect. Note that you may have to change your computer WiFi settings and QGroundControl link settings to match these changes. Are you sure you want to restart it?</source>
-      <translation>这将重启WiFi桥，以使你更改的设置生效。请注意，你有可能需要去更改你计算机的WiFi设置和QGroundControl的连接设置去适配这些变更。你确定要重启吗？</translation>
+      <translation>这将重启WiFi桥,以使你更改的设置生效.请注意,你有可能需要去更改你计算机的WiFi设置和QGroundControl的连接设置去适配这些变更.你确定要重启吗？</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/ESP8266Component.qml" line="463"/>
@@ -5400,7 +5400,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AutoPilotPlugins/Common/ESP8266Component.cc" line="28"/>
       <source>The ESP8266 WiFi Bridge Component is used to setup the WiFi link.</source>
-      <translation>ESP8266 WiFi 桥接组件用于设置 WiFi 链接。</translation>
+      <translation>ESP8266 WiFi 桥接组件用于设置 WiFi 链接.</translation>
     </message>
   </context>
   <context>
@@ -5622,17 +5622,17 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/PlanView/FWLandingPatternEditor.qml" line="248"/>
       <source>* Actual flight path will vary.</source>
-      <translation>* 实际飞行路径将有所不同。</translation>
+      <translation>* 实际飞行路径将有所不同.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/FWLandingPatternEditor.qml" line="257"/>
       <source>* Avoid tailwind on landing.</source>
-      <translation>* 在着陆时避免尾风。</translation>
+      <translation>* 在着陆时避免尾风.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/FWLandingPatternEditor.qml" line="283"/>
       <source>Click in map to set landing point.</source>
-      <translation>点击地图以设置着陆点。</translation>
+      <translation>点击地图以设置着陆点.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/FWLandingPatternEditor.qml" line="290"/>
@@ -5688,7 +5688,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FactSystem/Fact.cc" line="747"/>
       <source>Change of &apos;%1&apos; value requires restart of %2 to take effect.</source>
-      <translation>更改 &apos;%1&apos; 值需要重启 %2 才能生效。</translation>
+      <translation>更改 &apos;%1&apos; 值需要重启 %2 才能生效.</translation>
     </message>
   </context>
   <context>
@@ -5764,7 +5764,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/QmlControls/FactValueGrid.cc" line="318"/>
       <source>Settings version %1 for %2 is not supported. Setup will be reset to defaults.</source>
-      <translation>不支持 %1 的 %2 设置版本。设置将重置为默认值。</translation>
+      <translation>不支持 %1 的 %2 设置版本.设置将重置为默认值.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/FactValueGrid.cc" line="318"/>
@@ -5808,7 +5808,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/FirmwareImage.cc" line="143"/>
       <source>Incorrectly formatted line in .ihx file, line too short</source>
-      <translation>.ihx文件中有格式错误的行，行太短了</translation>
+      <translation>.ihx文件中有格式错误的行,行太短了</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareImage.cc" line="148"/>
@@ -5818,7 +5818,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/FirmwareImage.cc" line="218"/>
       <source>Unable to open firmware file %1, error: %2</source>
-      <translation>无法打开固件文件%1，错误：%2</translation>
+      <translation>无法打开固件文件%1,错误：%2</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareImage.cc" line="227"/>
@@ -5843,32 +5843,32 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/FirmwareImage.cc" line="276"/>
       <source>Write failed for parameter meta data file, error: %1</source>
-      <translation>参数元数据文件写入失败，错误：%1</translation>
+      <translation>参数元数据文件写入失败,错误：%1</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareImage.cc" line="283"/>
       <source>Unable to open parameter meta data file %1 for writing, error: %2</source>
-      <translation>无法打开参数元数据文件 %1 以进行写入，错误：%2</translation>
+      <translation>无法打开参数元数据文件 %1 以进行写入,错误：%2</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareImage.cc" line="305"/>
       <source>Write failed for airframe meta data file, error: %1</source>
-      <translation>机架元数据文件写入失败，错误：%1</translation>
+      <translation>机架元数据文件写入失败,错误：%1</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareImage.cc" line="312"/>
       <source>Unable to open airframe meta data file %1 for writing, error: %2</source>
-      <translation>无法打开机架元数据文件 %1 以进行写入，错误：%2</translation>
+      <translation>无法打开机架元数据文件 %1 以进行写入,错误：%2</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareImage.cc" line="338"/>
       <source>Unable to open decompressed file %1 for writing, error: %2</source>
-      <translation>无法打开解压后的文件 %1 用于写入，错误：%2</translation>
+      <translation>无法打开解压后的文件 %1 用于写入,错误：%2</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareImage.cc" line="344"/>
       <source>Write failed for decompressed image file, error: %1</source>
-      <translation>解压后的镜像文件写入失败，错误：%1</translation>
+      <translation>解压后的镜像文件写入失败,错误：%1</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareImage.cc" line="368"/>
@@ -5903,7 +5903,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/FirmwareImage.cc" line="437"/>
       <source>Unabled to open firmware file %1, %2</source>
-      <translation>无法打开固件文件%1，%2</translation>
+      <translation>无法打开固件文件%1,%2</translation>
     </message>
   </context>
   <context>
@@ -6273,7 +6273,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="1061"/>
       <source>Vehicle is not running latest stable firmware! Running %1, latest stable is %2.</source>
-      <translation>模型没有运行最新的稳定固件！运行 %1，最新稳定是 %2。</translation>
+      <translation>模型没有运行最新的稳定固件！运行 %1,最新稳定是 %2.</translation>
     </message>
   </context>
   <context>
@@ -6291,12 +6291,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="47"/>
       <source>%1 can upgrade the firmware on Pixhawk devices, SiK Radios and PX4 Flow Smart Cameras.</source>
-      <translation>%1 可以升级 Pixhawk 设备、SiK数传和 PX4 光流传感器上的固件。</translation>
+      <translation>%1 可以升级 Pixhawk 设备、SiK数传和 PX4 光流传感器上的固件.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="48"/>
       <source>Update the autopilot firmware to the latest version</source>
-      <translation>将飞控固件更新至最新版本。</translation>
+      <translation>将飞控固件更新至最新版本.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="52"/>
@@ -6326,7 +6326,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="127"/>
       <source>Multiple devices detected! Remove all detected devices to perform the firmware upgrade.</source>
-      <translation>检测到多个设备！移除所有检测到的设备，以便进行固件升级。</translation>
+      <translation>检测到多个设备！移除所有检测到的设备,以便进行固件升级.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="128"/>
@@ -6386,17 +6386,17 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="313"/>
       <source>Detected PX4 Flow board. The firmware you use on the PX4 Flow must match the AutoPilot firmware type you are using on the vehicle:</source>
-      <translation>检测到 PX4 Flow 光流板。在 PX4 Flow 上使用的固件必须与你飞机上使用的飞控固件类型相匹配：</translation>
+      <translation>检测到 PX4 Flow 光流板.在 PX4 Flow 上使用的固件必须与你飞机上使用的飞控固件类型相匹配：</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="314"/>
       <source>Detected Pixhawk board. You can select from the following flight stacks:</source>
-      <translation>检测到 Pixhawk 飞控板。您可以从以下飞行栈中进行选择：</translation>
+      <translation>检测到 Pixhawk 飞控板.您可以从以下飞行栈中进行选择：</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="315"/>
       <source>Press Ok to upgrade your vehicle.</source>
-      <translation>按“确定”升级您的飞机。</translation>
+      <translation>按“确定”升级您的飞机.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="318"/>
@@ -6436,7 +6436,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="461"/>
       <source>WARNING: BETA FIRMWARE. </source>
-      <translation>警告：BETA 固件。 </translation>
+      <translation>警告：BETA 固件. </translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="462"/>
@@ -6446,7 +6446,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="463"/>
       <source>Although it has received FLIGHT TESTING, it represents actively changed code. </source>
-      <translation>尽管接受了飞行测试，但代码仍然变动非常活跃。 </translation>
+      <translation>尽管接受了飞行测试,但代码仍然变动非常活跃. </translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="464"/>
@@ -6456,7 +6456,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="467"/>
       <source>WARNING: CONTINUOUS BUILD FIRMWARE. </source>
-      <translation>警告：连续编译固件。 </translation>
+      <translation>警告：连续编译固件. </translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="468"/>
@@ -6471,12 +6471,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="470"/>
       <source>Run bench tests without props first. </source>
-      <translation>首先请不要安装桨，进行台架试验。 </translation>
+      <translation>首先请不要安装桨,进行台架试验. </translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="471"/>
       <source>Do NOT fly this without additional safety precautions. </source>
-      <translation>不要在没有额外安全措施的情况下飞行。 </translation>
+      <translation>不要在没有额外安全措施的情况下飞行. </translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="472"/>
@@ -6494,7 +6494,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgradeController.cc" line="162"/>
       <source>Connect not allowed during Firmware Upgrade.</source>
-      <translation>固件升级时不充许连接。</translation>
+      <translation>固件升级时不充许连接.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgradeController.cc" line="280"/>
@@ -6519,7 +6519,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgradeController.cc" line="366"/>
       <source>Custom firmware selected but no filename given.</source>
-      <translation>自定义固件已选，但没有给出文件名。</translation>
+      <translation>自定义固件已选,但没有给出文件名.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgradeController.cc" line="371"/>
@@ -6559,7 +6559,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgradeController.cc" line="429"/>
       <source>Image size of %1 is too large for board flash size %2</source>
-      <translation>镜像体积 %1 太大，无法装到 %2 的飞控板的闪存上</translation>
+      <translation>镜像体积 %1 太大,无法装到 %2 的飞控板的闪存上</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgradeController.cc" line="461"/>
@@ -6607,7 +6607,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/FixedWingChecklist.qml" line="54"/>
       <source>Move all control surfaces. Did they work properly?</source>
-      <translation>请尝试移动所有舵面。它们都能正常工作吗？</translation>
+      <translation>请尝试移动所有舵面.它们都能正常工作吗？</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FixedWingChecklist.qml" line="58"/>
@@ -6617,7 +6617,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/FixedWingChecklist.qml" line="59"/>
       <source>Propellers free? Then throttle up gently. Working properly?</source>
-      <translation>螺旋桨周围是否有足够的空间？轻推油门，观察是否一切正常？</translation>
+      <translation>螺旋桨周围是否有足够的空间？轻推油门,观察是否一切正常？</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FixedWingChecklist.qml" line="63"/>
@@ -6627,7 +6627,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/FixedWingChecklist.qml" line="64"/>
       <source>Please confirm mission is valid (waypoints valid, no terrain collision).</source>
-      <translation>请确认飞行任务是否可用（航点有效，没有地形障碍）。</translation>
+      <translation>请确认飞行任务是否可用（航点有效,没有地形障碍）.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FixedWingChecklist.qml" line="72"/>
@@ -6848,7 +6848,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponent.cc" line="35"/>
       <source>Flight Modes Setup is used to configure the transmitter switches associated with Flight Modes.</source>
-      <translation>飞行模式设置，用于将遥控器上的开关与飞行模式相关联。</translation>
+      <translation>飞行模式设置,用于将遥控器上的开关与飞行模式相关联.</translation>
     </message>
   </context>
   <context>
@@ -6994,12 +6994,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/FlyViewMissionCompleteDialog.qml" line="127"/>
       <source>Resume Mission will rebuild the current mission from the last flown waypoint and upload it to the vehicle for the next flight.</source>
-      <translation>恢复飞行任务将从上次飞行航点重建目前的飞行任务，并上载到飞机供下次飞行。</translation>
+      <translation>恢复飞行任务将从上次飞行航点重建目前的飞行任务,并上载到飞机供下次飞行.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FlyViewMissionCompleteDialog.qml" line="135"/>
       <source>If you are changing batteries for Resume Mission do not disconnect from the vehicle.</source>
-      <translation>如果你为了继续执行任务而更换电池，请不要在地面站里点击“断开设备连接”。</translation>
+      <translation>如果你为了继续执行任务而更换电池,请不要在地面站里点击“断开设备连接”.</translation>
     </message>
   </context>
   <context>
@@ -7203,7 +7203,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="637"/>
       <source>All saved settings will be reset the next time you start %1. Is this really what you want?</source>
-      <translation>所有设置将在下次启动时复位%1。你确定要这样做吗？</translation>
+      <translation>所有设置将在下次启动时复位%1.你确定要这样做吗？</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="661"/>
@@ -7476,7 +7476,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="999"/>
       <source>Note: These setting are not meant for use with an ADSB transponder which is situated on the vehicle.</source>
-      <translation>注：这些设置不是用于位于车辆上的ADSB转发器。</translation>
+      <translation>注：这些设置不是用于位于车辆上的ADSB转发器.</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="253"/>
@@ -7573,12 +7573,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/PlanView/GeoFenceEditor.qml" line="65"/>
       <source>GeoFencing allows you to set a virtual fence around the area you want to fly in.</source>
-      <translation>地理栅栏允许你在你想飞入的区域周围设置虚拟栅栏。</translation>
+      <translation>地理栅栏允许你在你想飞入的区域周围设置虚拟栅栏.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/GeoFenceEditor.qml" line="66"/>
       <source>This vehicle does not support GeoFence.</source>
-      <translation>这个飞机不支持地理围栏。</translation>
+      <translation>这个飞机不支持地理围栏.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/GeoFenceEditor.qml" line="116"/>
@@ -7698,12 +7698,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AnalyzeView/GeoTagController.cc" line="58"/>
       <source>Images have alreay been tagged. Existing images will be removed.</source>
-      <translation>图像已标记。现有图像将被删除。</translation>
+      <translation>图像已标记.现有图像将被删除.</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/GeoTagController.cc" line="81"/>
       <source>The save folder already contains images.</source>
-      <translation>保存文件夹已经包含图像。</translation>
+      <translation>保存文件夹已经包含图像.</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/GeoTagController.cc" line="95"/>
@@ -7781,13 +7781,13 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AnalyzeView/GeoTagController.cc" line="158"/>
       <source>The image directory doesn&apos;t contain images, make sure your images are of the JPG format</source>
-      <translation>图像目录并没有包含图像，请确保你的图像是 JPG 格式</translation>
+      <translation>图像目录并没有包含图像,请确保你的图像是 JPG 格式</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/GeoTagController.cc" line="169"/>
       <location filename="../src/AnalyzeView/GeoTagController.cc" line="257"/>
       <source>Geotagging failed. Couldn&apos;t open an image.</source>
-      <translation>地理标注失败。无法打开图像。</translation>
+      <translation>地理标注失败.无法打开图像.</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/GeoTagController.cc" line="181"/>
@@ -7802,7 +7802,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AnalyzeView/GeoTagController.cc" line="190"/>
       <source>Geotagging failed. Couldn&apos;t open log file.</source>
-      <translation>地理标注失败。无法打开日志文件。</translation>
+      <translation>地理标注失败.无法打开日志文件.</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/GeoTagController.cc" line="217"/>
@@ -7822,17 +7822,17 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AnalyzeView/GeoTagController.cc" line="252"/>
       <source>Geotagging failed. Requesting image #%1, but only %2 images present.</source>
-      <translation>地理标签失败。正在请求图像文件 %1，但仅有 %2 图片文件。</translation>
+      <translation>地理标签失败.正在请求图像文件 %1,但仅有 %2 图片文件.</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/GeoTagController.cc" line="264"/>
       <source>Geotagging failed. Couldn&apos;t write to image.</source>
-      <translation>地理标注失败。无法写入图像。</translation>
+      <translation>地理标注失败.无法写入图像.</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/GeoTagController.cc" line="274"/>
       <source>Geotagging failed. Couldn&apos;t write to an image.</source>
-      <translation>地理标注失败。无法写入图像。</translation>
+      <translation>地理标注失败.无法写入图像.</translation>
     </message>
   </context>
   <context>
@@ -7941,7 +7941,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="67"/>
       <source>Return to the launch position of the vehicle.</source>
-      <translation>让飞机回到起飞点。</translation>
+      <translation>让飞机回到起飞点.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="54"/>
@@ -7986,77 +7986,77 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="62"/>
       <source>Takeoff from ground and hold position.</source>
-      <translation>从地面起飞并保持位置。</translation>
+      <translation>从地面起飞并保持位置.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="63"/>
       <source>Takeoff from ground and start the current mission.</source>
-      <translation>从地面起飞并开始当前任务。</translation>
+      <translation>从地面起飞并开始当前任务.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="64"/>
       <source>Continue the mission from the current waypoint.</source>
-      <translation>从当前航点继续任务。</translation>
+      <translation>从当前航点继续任务.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="65"/>
       <source>Upload of resume mission failed. Confirm to retry upload</source>
-      <translation>上传恢复任务失败。点确认重试上传</translation>
+      <translation>上传恢复任务失败.点确认重试上传</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="66"/>
       <source>Land the vehicle at the current position.</source>
-      <translation>将飞机降落在当前位置。</translation>
+      <translation>将飞机降落在当前位置.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="68"/>
       <source>Change the altitude of the vehicle up or down.</source>
-      <translation>将飞机的高度升高或降低。</translation>
+      <translation>将飞机的高度升高或降低.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="69"/>
       <source>Move the vehicle to the specified location.</source>
-      <translation>将飞机移动到指定位置。</translation>
+      <translation>将飞机移动到指定位置.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="70"/>
       <source>Adjust current waypoint to %1.</source>
-      <translation>将当前航点调整为 %1。</translation>
+      <translation>将当前航点调整为 %1.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="71"/>
       <source>Orbit the vehicle around the specified location.</source>
-      <translation>使飞机绕着指定位置盘旋。</translation>
+      <translation>使飞机绕着指定位置盘旋.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="72"/>
       <source>Abort the landing sequence.</source>
-      <translation>中止着陆过程。</translation>
+      <translation>中止着陆过程.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="73"/>
       <source>Pause the vehicle at it&apos;s current position, adjusting altitude up or down as needed.</source>
-      <translation>将飞机停在它的当前位置，根据需要上下调整高度。</translation>
+      <translation>将飞机停在它的当前位置,根据需要上下调整高度.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="74"/>
       <source>Pause all vehicles at their current position.</source>
-      <translation>在当前位置暂停所有飞机。</translation>
+      <translation>在当前位置暂停所有飞机.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="75"/>
       <source>Transition VTOL to fixed wing flight.</source>
-      <translation>VTOL切换到固定翼飞行模式。</translation>
+      <translation>VTOL切换到固定翼飞行模式.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="76"/>
       <source>Transition VTOL to multi-rotor flight.</source>
-      <translation>VTOL切换到多旋翼飞行模式。</translation>
+      <translation>VTOL切换到多旋翼飞行模式.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="77"/>
       <source>Make the specified location a Region Of Interest.</source>
-      <translation>使指定位置成为感兴趣的区域。</translation>
+      <translation>使指定位置成为感兴趣的区域.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="163"/>
@@ -8203,7 +8203,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="246"/>
       <source>Specify the color you want to apply based on value ranges. The color will be applied to the icon if available, otherwise to the value itself.</source>
-      <translation>指定您想要根据值范围应用的颜色。 如果可用，颜色将应用于图标，否则将应用于值本身。</translation>
+      <translation>指定您想要根据值范围应用的颜色. 如果可用,颜色将应用于图标,否则将应用于值本身.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="264"/>
@@ -8222,12 +8222,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="353"/>
       <source>Specify the icon you want to display based on value ranges.</source>
-      <translation>根据值范围指定要显示的图标。</translation>
+      <translation>根据值范围指定要显示的图标.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="452"/>
       <source>Specify the icon opacity you want based on value ranges.</source>
-      <translation>根据值范围指定要显示的图标。</translation>
+      <translation>根据值范围指定要显示的图标.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="520"/>
@@ -8455,7 +8455,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="181"/>
       <source>step of calibration by gently wiggling each axis. </source>
-      <translation>通过缓慢摆动每个轴进行校准步骤。</translation>
+      <translation>通过缓慢摆动每个轴进行校准步骤.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="182"/>
@@ -8465,7 +8465,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="183"/>
       <source>dragging vertically on the corresponding axis monitor.</source>
-      <translation>在相应的轴监视器上垂直拖动。</translation>
+      <translation>在相应的轴监视器上垂直拖动.</translation>
     </message>
   </context>
   <context>
@@ -8529,7 +8529,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigController.cc" line="197"/>
       <source>Detected %1 joystick axes. To operate PX4, you need at least %2 axes.</source>
-      <translation>检测到 %1 轴游戏手柄。要操作 PX4，至少需要 %2 轴。</translation>
+      <translation>检测到 %1 轴游戏手柄.要操作 PX4,至少需要 %2 轴.</translation>
     </message>
   </context>
   <context>
@@ -8618,7 +8618,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/JsonHelper.cc" line="334"/>
       <source>Unable to open file: &apos;%1&apos;, error: %2</source>
-      <translation>无法打开日志文件：“%1”，错误：%2</translation>
+      <translation>无法打开日志文件：“%1”,错误：%2</translation>
     </message>
     <message>
       <location filename="../src/JsonHelper.cc" line="343"/>
@@ -8641,7 +8641,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/KMLHelper.cc" line="15"/>
       <source>KML file load failed. %1</source>
-      <translation>KML 文件加载失败。 %1</translation>
+      <translation>KML 文件加载失败. %1</translation>
     </message>
     <message>
       <location filename="../src/KMLHelper.cc" line="24"/>
@@ -8763,7 +8763,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/LinkSettings.qml" line="105"/>
       <source>Remove %1. Is this really what you want?</source>
-      <translation>移除%1。你真的想要这么做吗？</translation>
+      <translation>移除%1.你真的想要这么做吗？</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/LinkSettings.qml" line="116"/>
@@ -8841,12 +8841,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/LogCompressor.cc" line="50"/>
       <source>Log Compressor: Cannot start/compress log file, since input file %1 is not readable</source>
-      <translation>日志压缩器：由于输入文件%1不可读，无法打开/压缩日志文件</translation>
+      <translation>日志压缩器：由于输入文件%1不可读,无法打开/压缩日志文件</translation>
     </message>
     <message>
       <location filename="../src/LogCompressor.cc" line="67"/>
       <source>Log Compressor: Cannot start/compress log file, since output file %1 is not writable</source>
-      <translation>日志压缩器：由于输入文件%1不可写，无法打开/压缩日志文件</translation>
+      <translation>日志压缩器：由于输入文件%1不可写,无法打开/压缩日志文件</translation>
     </message>
     <message>
       <location filename="../src/LogCompressor.cc" line="105"/>
@@ -8905,7 +8905,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AnalyzeView/LogDownloadPage.qml" line="24"/>
       <source>Log Download allows you to download binary log files from your vehicle. Click Refresh to get list of available logs.</source>
-      <translation>日志下载功能，可以让你从飞机上下载二进制日志文件。点击刷新查看可用日志列表。</translation>
+      <translation>日志下载功能,可以让你从飞机上下载二进制日志文件.点击刷新查看可用日志列表.</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogDownloadPage.qml" line="59"/>
@@ -8945,7 +8945,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AnalyzeView/LogDownloadPage.qml" line="128"/>
       <source>You must be connected to a vehicle in order to download logs.</source>
-      <translation>您必须先连接飞机才能下载日志。</translation>
+      <translation>您必须先连接飞机才能下载日志.</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogDownloadPage.qml" line="136"/>
@@ -8970,7 +8970,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AnalyzeView/LogDownloadPage.qml" line="180"/>
       <source>All log files will be erased permanently. Is this really what you want?</source>
-      <translation>所有日志文件将被永久擦除。您确定要继续执行吗？</translation>
+      <translation>所有日志文件将被永久擦除.您确定要继续执行吗？</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogDownloadPage.qml" line="189"/>
@@ -8988,7 +8988,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/comm/LogReplayLink.cc" line="104"/>
       <source>You must close all connections prior to replaying a log.</source>
-      <translation>回放日志前必须关闭所有连接。</translation>
+      <translation>回放日志前必须关闭所有连接.</translation>
     </message>
     <message>
       <location filename="../src/comm/LogReplayLink.cc" line="269"/>
@@ -8998,17 +8998,17 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/comm/LogReplayLink.cc" line="275"/>
       <source>Unable to open log file: &apos;%1&apos;, error: %2</source>
-      <translation>无法打开日志文件：“%1”，错误：%2</translation>
+      <translation>无法打开日志文件：“%1”,错误：%2</translation>
     </message>
     <message>
       <location filename="../src/comm/LogReplayLink.cc" line="285"/>
       <source>The log file &apos;%1&apos; is corrupt or empty.</source>
-      <translation>日志文件 ’%1‘ 已损坏或为空。</translation>
+      <translation>日志文件 ’%1‘ 已损坏或为空.</translation>
     </message>
     <message>
       <location filename="../src/comm/LogReplayLink.cc" line="358"/>
       <source>Connect not allowed during Flight Data replay.</source>
-      <translation>在飞行数据回放期间不允许连接。</translation>
+      <translation>在飞行数据回放期间不允许连接.</translation>
     </message>
     <message>
       <location filename="../src/comm/LogReplayLink.cc" line="425"/>
@@ -9076,7 +9076,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="19"/>
       <source>You must close all connections prior to replaying a log.</source>
-      <translation>回放日志前必须关闭所有连接。</translation>
+      <translation>回放日志前必须关闭所有连接.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="30"/>
@@ -9373,7 +9373,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspectorPage.qml" line="45"/>
       <source>Inspect real time MAVLink messages.</source>
-      <translation>查看实时 MAVLink 消息。</translation>
+      <translation>查看实时 MAVLink 消息.</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspectorPage.qml" line="142"/>
@@ -9431,12 +9431,12 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/comm/MAVLinkProtocol.cc" line="179"/>
       <location filename="../src/comm/MAVLinkProtocol.cc" line="297"/>
       <source>MAVLink Logging failed. Could not write to file %1, logging disabled.</source>
-      <translation>MAVLink 日志记录失败。无法写入文件%1，已禁用日志记录。</translation>
+      <translation>MAVLink 日志记录失败.无法写入文件%1,已禁用日志记录.</translation>
     </message>
     <message>
       <location filename="../src/comm/MAVLinkProtocol.cc" line="346"/>
       <source>Detected radio still using MAVLink v1.0 on a link with MAVLink v2.0 enabled. Please upgrade the radio firmware.</source>
-      <translation>在启用了 MAVLink v2.0 的连接上，检测到数传仍在使用 MAVLink v1.0。请升级数传固件。</translation>
+      <translation>在启用了 MAVLink v2.0 的连接上,检测到数传仍在使用 MAVLink v1.0.请升级数传固件.</translation>
     </message>
     <message>
       <location filename="../src/comm/MAVLinkProtocol.cc" line="383"/>
@@ -9446,7 +9446,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/comm/MAVLinkProtocol.cc" line="457"/>
       <source>Opening Flight Data file for writing failed. Unable to write to %1. Please choose a different file location.</source>
-      <translation>打开用于写入的飞行数据文件失败。无法写入 %1。请选择其他文件位置。</translation>
+      <translation>打开用于写入的飞行数据文件失败.无法写入 %1.请选择其他文件位置.</translation>
     </message>
   </context>
   <context>
@@ -9461,12 +9461,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/MainRootWindow.qml" line="307"/>
       <source>There are still active connections to vehicles. Are you sure you want to exit?</source>
-      <translation>仍存在与飞机的有效连接。确实要退出吗？</translation>
+      <translation>仍存在与飞机的有效连接.确实要退出吗？</translation>
     </message>
     <message>
       <location filename="../src/ui/MainRootWindow.qml" line="271"/>
       <source>You have a mission edit in progress which has not been saved/sent. If you close you will lose changes. Are you sure you want to close?</source>
-      <translation>您正在进行任务编辑，但尚未保存/发送。 如果您关闭，将失去当前修改。 确定要关闭吗？</translation>
+      <translation>您正在进行任务编辑,但尚未保存/发送. 如果您关闭,将失去当前修改. 确定要关闭吗？</translation>
     </message>
     <message>
       <location filename="../src/ui/MainRootWindow.qml" line="156"/>
@@ -9489,7 +9489,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/MainRootWindow.qml" line="288"/>
       <source>You have pending parameter updates to a vehicle. If you close you will lose changes. Are you sure you want to close?</source>
-      <translation>模型更新参数里存在待定值。如果你关闭将丢失更改。你确定要关闭吗？
+      <translation>模型更新参数里存在待定值.如果你关闭将丢失更改.你确定要关闭吗？
 </translation>
     </message>
     <message>
@@ -9685,7 +9685,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="83"/>
       <source>Please enter an email address before uploading MAVLink log files.</source>
-      <translation>请在上传 MAVLink 日志文件之前输入电子邮件地址。</translation>
+      <translation>请在上传 MAVLink 日志文件之前输入电子邮件地址.</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="108"/>
@@ -10091,12 +10091,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/MissionManager/MissionController.cc" line="973"/>
       <source>The mission file is corrupted.</source>
-      <translation>任务文件已损坏。</translation>
+      <translation>任务文件已损坏.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/MissionController.cc" line="978"/>
       <source>The mission file is not compatible with this version of %1.</source>
-      <translation>任务文件与此版本（%1）不兼容。</translation>
+      <translation>任务文件与此版本（%1）不兼容.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/MissionController.cc" line="1026"/>
@@ -10121,7 +10121,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/MissionManager/MissionItem.cc" line="297"/>
       <source>Param %1 incorrect type %2, must be double or null</source>
-      <translation>参数 %1 不正确的类型 %2，必须为双精度或null</translation>
+      <translation>参数 %1 不正确的类型 %2,必须为双精度或null</translation>
     </message>
   </context>
   <context>
@@ -10165,7 +10165,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/PlanView/MissionItemEditor.qml" line="241"/>
       <source>You have made changes to the mission item which cannot be shown in Simple Mode</source>
-      <translation>您已经对某些任务项目进行了修改，它们无法在简单模式下显示。</translation>
+      <translation>您已经对某些任务项目进行了修改,它们无法在简单模式下显示.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionItemEditor.qml" line="251"/>
@@ -10191,7 +10191,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/MissionManager/MissionManager.cc" line="92"/>
       <source>Unable to generate resume mission due to MAV_CMD_DO_JUMP command.</source>
-      <translation>由于 MAV_CMD_DO_JUMP 命令，无法生成恢复任务。</translation>
+      <translation>由于 MAV_CMD_DO_JUMP 命令,无法生成恢复任务.</translation>
     </message>
   </context>
   <context>
@@ -10214,7 +10214,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/PlanView/MissionSettingsEditor.qml" line="146"/>
       <source>Above camera commands will take affect immediately upon mission start.</source>
-      <translation>以上相机指令将在任务开始时立即生效。</translation>
+      <translation>以上相机指令将在任务开始时立即生效.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionSettingsEditor.qml" line="239"/>
@@ -10264,7 +10264,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/PlanView/MissionSettingsEditor.qml" line="270"/>
       <source>Actual position set by vehicle at flight time.</source>
-      <translation>飞机在起飞时设定的实际位置。</translation>
+      <translation>飞机在起飞时设定的实际位置.</translation>
     </message>
   </context>
   <context>
@@ -10277,7 +10277,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/MissionManager/MissionSettingsItem.cc" line="292"/>
       <source>Launch</source>
-      <translation>发射，起飞</translation>
+      <translation>发射,起飞</translation>
     </message>
   </context>
   <context>
@@ -10430,7 +10430,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AutoPilotPlugins/Common/MotorComponent.qml" line="122"/>
       <source>Moving the sliders will causes the motors to spin. Make sure you remove all props.</source>
-      <translation>拖动滑块会导致电机旋转。请确保已卸下所有螺旋桨。</translation>
+      <translation>拖动滑块会导致电机旋转.请确保已卸下所有螺旋桨.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/MotorComponent.qml" line="142"/>
@@ -10450,7 +10450,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AutoPilotPlugins/Common/MotorComponent.cc" line="26"/>
       <source>Motors Setup is used to manually test motor control and direction.</source>
-      <translation>电机设置，用于手动测试电机的控制和方向。</translation>
+      <translation>电机设置,用于手动测试电机的控制和方向.</translation>
     </message>
   </context>
   <context>
@@ -10483,7 +10483,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/MultiRotorChecklist.qml" line="54"/>
       <source>Propellers free? Then throttle up gently. Working properly?</source>
-      <translation>螺旋桨周围是否有足够的空间？轻推油门，观察是否一切正常？</translation>
+      <translation>螺旋桨周围是否有足够的空间？轻推油门,观察是否一切正常？</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/MultiRotorChecklist.qml" line="58"/>
@@ -10493,7 +10493,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/MultiRotorChecklist.qml" line="59"/>
       <source>Please confirm mission is valid (waypoints valid, no terrain collision).</source>
-      <translation>请确认飞行任务是否可用（航点有效，没有地形障碍）。</translation>
+      <translation>请确认飞行任务是否可用（航点有效,没有地形障碍）.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/MultiRotorChecklist.qml" line="67"/>
@@ -10590,7 +10590,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="303"/>
       <source>Memory cache changes require a restart to take effect.</source>
-      <translation>缓存更改后需要重启生效。</translation>
+      <translation>缓存更改后需要重启生效.</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="307"/>
@@ -10600,7 +10600,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="318"/>
       <source>To enable Mapbox maps, enter your access token.</source>
-      <translation>要启用 Mapbox 地图，请输入您的访问口令。</translation>
+      <translation>要启用 Mapbox 地图,请输入您的访问口令.</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="324"/>
@@ -10630,7 +10630,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="369"/>
       <source>To enable Esri maps, enter your access token.</source>
-      <translation>要启用 Esri 地图，请输入您的访问口令。</translation>
+      <translation>要启用 Esri 地图,请输入您的访问口令.</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="375"/>
@@ -10657,7 +10657,7 @@ Click Ok to start the auto-tuning process.
       <source>This will delete all tiles INCLUDING the tile sets you have created yourself.
 
 Is this really what you want?</source>
-      <translation>这将删除所有图块，这包含你自己创建的那些图块集。
+      <translation>这将删除所有图块,这包含你自己创建的那些图块集.
 
 你确定要这么做吗？</translation>
     </message>
@@ -10666,7 +10666,7 @@ Is this really what you want?</source>
       <source>Delete %1 and all its tiles.
 
 Is this really what you want?</source>
-      <translation>删除%1和所有相关图块。
+      <translation>删除%1和所有相关图块.
 
 你确定要这么做吗？</translation>
     </message>
@@ -10895,7 +10895,7 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/FirstRunPromptDialogs/OfflineVehicleFirstRunPrompt.qml" line="36"/>
       <source>Specify information about the vehicle you plan to fly. If you are unsure of the correct values leave them as is.</source>
-      <translation>指定您计划飞行的航模信息。如果您不确定正确的值，请将其保留为原样。</translation>
+      <translation>指定您计划飞行的航模信息.如果您不确定正确的值,请将其保留为原样.</translation>
     </message>
     <message>
       <location filename="../src/FirstRunPromptDialogs/OfflineVehicleFirstRunPrompt.qml" line="56"/>
@@ -10963,12 +10963,12 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/QmlControls/PIDTuning.qml" line="381"/>
       <source>Switches to &apos;Stabilized&apos; when you click Start.</source>
-      <translation>点击开始后，切换到 &apos;稳定&apos;。</translation>
+      <translation>点击开始后,切换到 &apos;稳定&apos;.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/PIDTuning.qml" line="386"/>
       <source>Switches to &apos;%1&apos; when you click Stop.</source>
-      <translation>点击“停止”后，切换到 &apos;稳定&apos;。</translation>
+      <translation>点击“停止”后,切换到 &apos;稳定&apos;.</translation>
     </message>
   </context>
   <context>
@@ -10983,25 +10983,25 @@ Is this really what you want?</source>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="35"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="35"/>
       <source>Assign Flight Modes to radio control channels and adjust the thresholds for triggering them.</source>
-      <translation>将飞行模式分配给遥控器控制通道，并调整触发它们的阈值。</translation>
+      <translation>将飞行模式分配给遥控器控制通道,并调整触发它们的阈值.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="36"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="36"/>
       <source>Assign Flight Modes to radio control channels and adjust the thresholds for triggering them. </source>
-      <translation>将飞行模式分配给遥控器控制通道，并调整触发它们的阈值。 </translation>
+      <translation>将飞行模式分配给遥控器控制通道,并调整触发它们的阈值. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="37"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="37"/>
       <source>You can assign multiple flight modes to a single channel. </source>
-      <translation>您可以将多个飞行模式分配到单个通道。 </translation>
+      <translation>您可以将多个飞行模式分配到单个通道. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="38"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="38"/>
       <source>Turn your radio control on to test switch settings. </source>
-      <translation>将您的遥控器打开来测试开关设置。 </translation>
+      <translation>将您的遥控器打开来测试开关设置. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="39"/>
@@ -11013,7 +11013,7 @@ Is this really what you want?</source>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="40"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="40"/>
       <source> are not available for Flight Modes since they are already in use for other functions.</source>
-      <translation> 不可用于飞行模式，因为它们已经被用于其他功能。</translation>
+      <translation> 不可用于飞行模式,因为它们已经被用于其他功能.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="42"/>
@@ -11031,7 +11031,7 @@ Is this really what you want?</source>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="44"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="44"/>
       <source>The pilot has full control of the aircraft, no assistance is provided. </source>
-      <translation>飞手完全控制飞机，没有提供任何协助。 </translation>
+      <translation>飞手完全控制飞机,没有提供任何协助. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="45"/>
@@ -11039,13 +11039,13 @@ Is this really what you want?</source>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="45"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="47"/>
       <source>The Main mode switch must always be assigned to a channel in order to fly</source>
-      <translation>为了飞行，主模式开关必须始终分配到一个通道上。</translation>
+      <translation>为了飞行,主模式开关必须始终分配到一个通道上.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="46"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="46"/>
       <source>The pilot has full control of the aircraft, only attitude is stabilized. </source>
-      <translation>飞手完全控制飞机，只有姿态自稳。 </translation>
+      <translation>飞手完全控制飞机,只有姿态自稳. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="49"/>
@@ -11057,13 +11057,13 @@ Is this really what you want?</source>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="50"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="50"/>
       <source>If Position Control is placed on a separate channel from the Main mode channel, an additional &apos;Assist&apos; mode is added to the Main switch. </source>
-      <translation>如果位置控制模式被设置在主模式通道外的通道上，则会添加“协助Assist”模式到主开关。 </translation>
+      <translation>如果位置控制模式被设置在主模式通道外的通道上,则会添加“协助Assist”模式到主开关. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="51"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="51"/>
       <source>In order for the Attitude Control/Position Control switch to be active, the Main switch must be in Assist mode.</source>
-      <translation>为了使姿态控制/位置控制开关可用，主开关必须处于辅助模式。</translation>
+      <translation>为了使姿态控制/位置控制开关可用,主开关必须处于辅助模式.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="53"/>
@@ -11075,13 +11075,13 @@ Is this really what you want?</source>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="54"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="54"/>
       <source>If Loiter is placed on a separate channel from the Main mode channel, an additional &apos;Auto&apos; mode is added to the Main switch. </source>
-      <translation>如果留待模式被设置在主模式通道外的通道上，则会添加“自动”模式到主开关。 </translation>
+      <translation>如果留待模式被设置在主模式通道外的通道上,则会添加“自动”模式到主开关. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="55"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="55"/>
       <source>In order for the Mission/Loiter switch to be active, the Main switch must be in Auto mode.</source>
-      <translation>为了使任务/留待模式开关可用，主模式开关必须为自动模式。</translation>
+      <translation>为了使任务/留待模式开关可用,主模式开关必须为自动模式.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="57"/>
@@ -11099,13 +11099,13 @@ Is this really what you want?</source>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="59"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="59"/>
       <source>Roll/pitch angles and rudder deflection are controlled. </source>
-      <translation>横滚/俯仰角度和方向舵偏转处于被控状态。 </translation>
+      <translation>横滚/俯仰角度和方向舵偏转处于被控状态. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="60"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="60"/>
       <source>The angular rates are controlled, but not the attitude. </source>
-      <translation>角速率是受控的，但姿态不受控。 </translation>
+      <translation>角速率是受控的,但姿态不受控. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="62"/>
@@ -11117,25 +11117,25 @@ Is this really what you want?</source>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="63"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="63"/>
       <source>Roll stick controls banking, pitch stick altitude </source>
-      <translation>横滚摇杆控制倾斜，俯仰摇杆控制高度。 </translation>
+      <translation>横滚摇杆控制倾斜,俯仰摇杆控制高度. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="64"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="64"/>
       <source>Throttle stick controls speed. </source>
-      <translation>油门摇杆控制速度。 </translation>
+      <translation>油门摇杆控制速度. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="65"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="65"/>
       <source>With no stick inputs the plane holds heading, but drifts off in wind. </source>
-      <translation>没有杆量输入时，飞机将保持现有航向，但会在风中漂移。 </translation>
+      <translation>没有杆量输入时,飞机将保持现有航向,但会在风中漂移. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="66"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="66"/>
       <source>Same as Stablized mode except that Throttle controls climb/sink rate. Centered Throttle holds altitude steady. </source>
-      <translation>与自稳模式相同，但油门控制爬升/下降速率。油门在中位时保持当前高度。 </translation>
+      <translation>与自稳模式相同,但油门控制爬升/下降速率.油门在中位时保持当前高度. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="68"/>
@@ -11147,31 +11147,31 @@ Is this really what you want?</source>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="69"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="69"/>
       <source>Roll stick controls banking, pitch stick controls altitude. </source>
-      <translation>横滚摇杆控制侧倾，俯仰摇杆控制高度。 </translation>
+      <translation>横滚摇杆控制侧倾,俯仰摇杆控制高度. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="70"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="70"/>
       <source>Throttle stick controls speed.</source>
-      <translation>油门摇杆控制速度。</translation>
+      <translation>油门摇杆控制速度.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="71"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="71"/>
       <source>With no stick inputs the plane flies a straight line, even in wind. </source>
-      <translation>没有杆量输入时，飞机会直线飞行，即使是在风中。 </translation>
+      <translation>没有杆量输入时,飞机会直线飞行,即使是在风中. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="72"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="72"/>
       <source>Roll and Pitch sticks control sideways and forward speed </source>
-      <translation>横滚和俯仰摇杆控制侧向和前向的速度。</translation>
+      <translation>横滚和俯仰摇杆控制侧向和前向的速度.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="73"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="73"/>
       <source>Throttle stick controls climb / sink rade. </source>
-      <translation>油门摇杆控制上升/下降的速率。 </translation>
+      <translation>油门摇杆控制上升/下降的速率. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="75"/>
@@ -11183,7 +11183,7 @@ Is this really what you want?</source>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="76"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="76"/>
       <source>The aircraft obeys the programmed mission sent by QGroundControl. </source>
-      <translation>飞机开始执行QGroundControl发送的程序化任务。 </translation>
+      <translation>飞机开始执行QGroundControl发送的程序化任务. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="78"/>
@@ -11195,13 +11195,13 @@ Is this really what you want?</source>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="79"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="79"/>
       <source>The aircraft flies in a circle around the current position at the current altitude. </source>
-      <translation>飞机在当前高度、当前位置绕圈飞行。 </translation>
+      <translation>飞机在当前高度、当前位置绕圈飞行. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="80"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="80"/>
       <source>The multirotor hovers at the current position and altitude. </source>
-      <translation>多旋翼悬停在当前位置和高度。 </translation>
+      <translation>多旋翼悬停在当前位置和高度. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="82"/>
@@ -11213,7 +11213,7 @@ Is this really what you want?</source>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="83"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="83"/>
       <source>The vehicle returns to the launch position, loiters and then lands. </source>
-      <translation>飞机返回起飞点，留待然后降落。 </translation>
+      <translation>飞机返回起飞点,留待然后降落. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="85"/>
@@ -11225,13 +11225,13 @@ Is this really what you want?</source>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="86"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="86"/>
       <source>All flight control aspects are controlled by an offboard system.</source>
-      <translation>所有飞行控制方面都由一个板外系统控制。</translation>
+      <translation>所有飞行控制方面都由一个板外系统控制.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="159"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="159"/>
       <source>Flight Mode Config is disabled since you have a Joystick enabled.</source>
-      <translation>飞行模式配置已被禁用，由于您已启用了游戏手柄。</translation>
+      <translation>飞行模式配置已被禁用,由于您已启用了游戏手柄.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="194"/>
@@ -11252,21 +11252,21 @@ Is this really what you want?</source>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModesController.cc" line="151"/>
       <source>%1 is set to %2. Mapping must between 0 and %3 (inclusive).
 </source>
-      <translation>%1 当前设置为 %2。映射必须介于0和%3(包含)之间。
+      <translation>%1 当前设置为 %2.映射必须介于0和%3(包含)之间.
 </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModesController.cc" line="167"/>
       <source>%1 is set to same channel as %2.
 </source>
-      <translation>%1 设置成了与 %2 相同的通道。
+      <translation>%1 设置成了与 %2 相同的通道.
 </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModesController.cc" line="177"/>
       <source>%1 is set to %2. Threshold must between 0.0 and 1.0 (inclusive).
 </source>
-      <translation>%1 当前设置为 %2。阈值必须介于0和1.0(包含)之间。
+      <translation>%1 当前设置为 %2.阈值必须介于0和1.0(包含)之间.
 </translation>
     </message>
   </context>
@@ -11275,7 +11275,7 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AutoPilotPlugin.cc" line="144"/>
       <source>Warning: Hardware In The Loop (HITL) simulation is enabled for this vehicle.</source>
-      <translation>警告：此飞机已启用循环中的硬件模拟(HITL)。</translation>
+      <translation>警告：此飞机已启用循环中的硬件模拟(HITL).</translation>
     </message>
   </context>
   <context>
@@ -11378,12 +11378,12 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="396"/>
       <source>Unable to takeoff, vehicle position not known.</source>
-      <translation>无法起飞，飞行器位置未知。</translation>
+      <translation>无法起飞,飞行器位置未知.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="416"/>
       <source>Unable to go to location, vehicle position not known.</source>
-      <translation>无法到达指定位置，飞机位置未知。</translation>
+      <translation>无法到达指定位置,飞机位置未知.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="489"/>
@@ -11393,27 +11393,27 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="498"/>
       <source>Unable to change altitude, home position unknown.</source>
-      <translation>无法改变高度，Home点未知。</translation>
+      <translation>无法改变高度,Home点未知.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="502"/>
       <source>Unable to change altitude, home position altitude unknown.</source>
-      <translation>无法改变高度，Home点的高度未知。</translation>
+      <translation>无法改变高度,Home点的高度未知.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="533"/>
       <source>Unable to start mission: Vehicle rejected arming.</source>
-      <translation>无法开始任务：飞机拒绝解锁。</translation>
+      <translation>无法开始任务：飞机拒绝解锁.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="537"/>
       <source>Unable to start mission: Vehicle not changing to %1 flight mode.</source>
-      <translation>无法启动飞行任务：航模没有更改为 %1 飞行模式。</translation>
+      <translation>无法启动飞行任务：航模没有更改为 %1 飞行模式.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="609"/>
       <source>QGroundControl supports PX4 Pro firmware Version %1.%2.%3 and above. You are using a version prior to that which will lead to unpredictable results. Please upgrade your firmware.</source>
-      <translation>QGroundControl 支持 PX4 Pro 固件 %1.%2.%3 及以上版本。您正使用之前的版本，这将导致不可预知的结果。请升级固件。</translation>
+      <translation>QGroundControl 支持 PX4 Pro 固件 %1.%2.%3 及以上版本.您正使用之前的版本,这将导致不可预知的结果.请升级固件.</translation>
     </message>
   </context>
   <context>
@@ -11562,7 +11562,7 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponent.cc" line="27"/>
       <source>Radio Setup is used to calibrate your transmitter. It also assign channels for Roll, Pitch, Yaw and Throttle vehicle control as well as determining whether they are reversed.</source>
-      <translation>遥控器设置，用于校准你的遥控发射机。还用于分配横滚、俯仰、偏航和油门通道，同时也可以确定通道的是否反向。</translation>
+      <translation>遥控器设置,用于校准你的遥控发射机.还用于分配横滚、俯仰、偏航和油门通道,同时也可以确定通道的是否反向.</translation>
     </message>
   </context>
   <context>
@@ -12261,12 +12261,12 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="333"/>
       <source>Select Reset to reset all parameters to the vehicle&apos;s configuration defaults.</source>
-      <translation>选择重置以将所有参数重置为载具&apos;s 配置默认值。</translation>
+      <translation>选择重置以将所有参数重置为载具&apos;s 配置默认值.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="350"/>
       <source>Select Ok to reboot vehicle.</source>
-      <translation>点击“确定”重新启动飞机。</translation>
+      <translation>点击“确定”重新启动飞机.</translation>
     </message>
   </context>
   <context>
@@ -12312,12 +12312,12 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="242"/>
       <source>Warning: Modifying values while vehicle is in flight can lead to vehicle instability and possible vehicle loss. </source>
-      <translation>警告：在飞机飞行时修改值可能导致飞机不稳定，也可能造成飞机飞丢。 </translation>
+      <translation>警告：在飞机飞行时修改值可能导致飞机不稳定,也可能造成飞机飞丢. </translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="243"/>
       <source>Make sure you know what you are doing and double-check your values before Save!</source>
-      <translation>确保你知道你在做什么，并在保存之前仔细检查你设置的值！</translation>
+      <translation>确保你知道你在做什么,并在保存之前仔细检查你设置的值！</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="250"/>
@@ -12361,7 +12361,7 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
       <location filename="../src/FactSystem/ParameterManager.cc" line="977"/>
       <source>Parameters not loaded since they are not currently on the vehicle: %1
 </source>
-      <translation>参数未加载，因为它们目前不在模型上： %1
+      <translation>参数未加载,因为它们目前不在模型上： %1
 </translation>
     </message>
     <message>
@@ -12372,12 +12372,12 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/FactSystem/ParameterManager.cc" line="1149"/>
       <source>%1 was unable to retrieve the full set of parameters from vehicle %2. This will cause %1 to be unable to display its full user interface. If you are using modified firmware, you may need to resolve any vehicle startup errors to resolve the issue. If you are using standard firmware, you may need to upgrade to a newer version to resolve the issue.</source>
-      <translation>%1 无法从飞机%2检索完整的参数集。这将导致%1无法显示其完整的用户界面。如果使用的是修改后的固件，则可能需要解决所有飞机启动错误以解决此问题。如果使用的是标准固件，则可能需要升级到较新的版本来解决此问题。</translation>
+      <translation>%1 无法从飞机%2检索完整的参数集.这将导致%1无法显示其完整的用户界面.如果使用的是修改后的固件,则可能需要解决所有飞机启动错误以解决此问题.如果使用的是标准固件,则可能需要升级到较新的版本来解决此问题.</translation>
     </message>
     <message>
       <location filename="../src/FactSystem/ParameterManager.cc" line="1175"/>
       <source>Vehicle %1 did not respond to request for parameters. This will cause %2 to be unable to display its full user interface.</source>
-      <translation>飞机%1未响应对参数的请求。这将导致 %2 无法显示其完整的用户界面。</translation>
+      <translation>飞机%1未响应对参数的请求.这将导致 %2 无法显示其完整的用户界面.</translation>
     </message>
   </context>
   <context>
@@ -12528,7 +12528,7 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="183"/>
       <source>Mission request list failed, maximum retries exceeded.</source>
-      <translation>任务请求列表失败，超过了最大重试次数。</translation>
+      <translation>任务请求列表失败,超过了最大重试次数.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="187"/>
@@ -12538,7 +12538,7 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="194"/>
       <source>Mission read failed, maximum retries exceeded.</source>
-      <translation>任务读取失败，超过了最大重试次数。</translation>
+      <translation>任务读取失败,超过了最大重试次数.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="198"/>
@@ -12548,12 +12548,12 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="206"/>
       <source>Mission write failed, vehicle failed to send final ack.</source>
-      <translation>任务写入失败，飞机发送最终确认信息失败。</translation>
+      <translation>任务写入失败,飞机发送最终确认信息失败.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="211"/>
       <source>Mission write mission count failed, maximum retries exceeded.</source>
-      <translation>任务写任务计数失败，超过了最大重试次数。</translation>
+      <translation>任务写任务计数失败,超过了最大重试次数.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="220"/>
@@ -12563,7 +12563,7 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="228"/>
       <source>Mission remove all, maximum retries exceeded.</source>
-      <translation>任务全部删除，超过最大重试次数。</translation>
+      <translation>任务全部删除,超过最大重试次数.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="232"/>
@@ -12583,12 +12583,12 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="500"/>
       <source>Vehicle requested item outside range, count:request %1:%2. Send to Vehicle failed.</source>
-      <translation>飞机请求的项目超出范围，计数：请求 %1:%2。发送到飞机失败。</translation>
+      <translation>飞机请求的项目超出范围,计数：请求 %1:%2.发送到飞机失败.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="615"/>
       <source>Vehicle remove all failed. Error: %1</source>
-      <translation>车辆移除所有失败。错误： %1</translation>
+      <translation>车辆移除所有失败.错误： %1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="690"/>
@@ -12619,12 +12619,12 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="740"/>
       <source>Unspecified error.</source>
-      <translation>未知错误。</translation>
+      <translation>未知错误.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="743"/>
       <source>Coordinate frame is not supported.</source>
-      <translation>不支持坐标系。</translation>
+      <translation>不支持坐标系.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="746"/>
@@ -12634,57 +12634,57 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="749"/>
       <source>Mission item exceeds storage space.</source>
-      <translation>任务项超出存储空间。</translation>
+      <translation>任务项超出存储空间.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="752"/>
       <source>One of the parameters has an invalid value.</source>
-      <translation>其中一个参数有一个无效值。</translation>
+      <translation>其中一个参数有一个无效值.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="755"/>
       <source>Param 1 invalid value.</source>
-      <translation>参数 1 无效值。</translation>
+      <translation>参数 1 无效值.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="758"/>
       <source>Param 2 invalid value.</source>
-      <translation>参数 2 无效值。</translation>
+      <translation>参数 2 无效值.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="761"/>
       <source>Param 3 invalid value.</source>
-      <translation>参数 3 无效值。</translation>
+      <translation>参数 3 无效值.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="764"/>
       <source>Param 4 invalid value.</source>
-      <translation>参数 4 无效值。</translation>
+      <translation>参数 4 无效值.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="767"/>
       <source>Param 5 invalid value.</source>
-      <translation>参数 5 值无效。</translation>
+      <translation>参数 5 值无效.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="770"/>
       <source>Param 6 invalid value.</source>
-      <translation>参数6无效值。</translation>
+      <translation>参数6无效值.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="773"/>
       <source>Param 7 invalid value.</source>
-      <translation>参数7 无效值。</translation>
+      <translation>参数7 无效值.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="776"/>
       <source>Received mission item out of sequence.</source>
-      <translation>收到序列以外的任务项目。</translation>
+      <translation>收到序列以外的任务项目.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="779"/>
       <source>Not accepting any mission commands.</source>
-      <translation>不接受任何任务命令。</translation>
+      <translation>不接受任何任务命令.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="783"/>
@@ -12694,7 +12694,7 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="626"/>
       <source>Vehicle returned error: %1. %2Vehicle did not accept guided item.</source>
-      <translation>飞机返回错误：%1。%2飞机未接受引导项目。</translation>
+      <translation>飞机返回错误：%1.%2飞机未接受引导项目.</translation>
     </message>
   </context>
   <context>
@@ -12702,17 +12702,17 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="223"/>
       <source>Download not supported on high latency links.</source>
-      <translation>在高延迟链接上不支持下载。</translation>
+      <translation>在高延迟链接上不支持下载.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="337"/>
       <source>Upload not supported on high latency links.</source>
-      <translation>在高延迟链接上不支持上传。</translation>
+      <translation>在高延迟链接上不支持上传.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="357"/>
       <source>Error loading Plan file (%1). %2</source>
-      <translation>加载规划文件时出错（%1）。%2</translation>
+      <translation>加载规划文件时出错（%1）.%2</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="481"/>
@@ -12825,22 +12825,22 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="62"/>
       <source>Vehicle is currently armed. Do you want to upload the mission to the vehicle?</source>
-      <translation>飞机当前已解锁。您确认想上传任务到飞机吗？</translation>
+      <translation>飞机当前已解锁.您确认想上传任务到飞机吗？</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="129"/>
       <source>You have changed the default altitude for mission items. Would you like to apply that altitude to all the items in the current mission?</source>
-      <translation>您已经更改了任务项的默认高度。希望应用新的高度设置到当前任务的所有航点吗？</translation>
+      <translation>您已经更改了任务项的默认高度.希望应用新的高度设置到当前任务的所有航点吗？</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="209"/>
       <source>You need at least one item to create a KML.</source>
-      <translation>您需要至少一个项目来创建KML。</translation>
+      <translation>您需要至少一个项目来创建KML.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="237"/>
       <source>Plan is waiting on terrain data from server for correct altitude values.</source>
-      <translation>规划正在等待来自服务器的地形数据，已得到正确的高度值。</translation>
+      <translation>规划正在等待来自服务器的地形数据,已得到正确的高度值.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="263"/>
@@ -13015,12 +13015,12 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="942"/>
       <source>You have unsaved/unsent changes. Loading from the Vehicle will lose these changes. Are you sure you want to load from the Vehicle?</source>
-      <translation>您有未保存/未发送的更改。从飞机进行加载操作将会失去这些变更。确定要从飞机上加载吗？</translation>
+      <translation>您有未保存/未发送的更改.从飞机进行加载操作将会失去这些变更.确定要从飞机上加载吗？</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="954"/>
       <source>You have unsaved/unsent changes. Loading from a file will lose these changes. Are you sure you want to load from a file?</source>
-      <translation>您有未保存/未发送的更改。从文件进行加载操作将会失去这些变更。确定要从文件中加载吗？</translation>
+      <translation>您有未保存/未发送的更改.从文件进行加载操作将会失去这些变更.确定要从文件中加载吗？</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1228"/>
@@ -13055,7 +13055,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1037"/>
       <source>You have unsaved changes.</source>
-      <translation>您有未保存的更改。</translation>
+      <translation>您有未保存的更改.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1136"/>
@@ -13078,7 +13078,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="232"/>
       <source>Plan has incomplete items. Complete all items and %1 again.</source>
-      <translation>计划有不完整的项目。重新完成所有项目和 %1。</translation>
+      <translation>计划有不完整的项目.重新完成所有项目和 %1.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="967"/>
@@ -13088,7 +13088,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1036"/>
       <source>You have unsaved changes. You should upload to your vehicle, or save to a file.</source>
-      <translation>您有未保存的更改，应该将其上传到飞机或保存到一个文件中：</translation>
+      <translation>您有未保存的更改,应该将其上传到飞机或保存到一个文件中：</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1044"/>
@@ -13178,19 +13178,19 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="58"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="58"/>
       <source>%1 cannot perform ESC Calibration with this version of firmware. You will need to upgrade to a newer firmware.</source>
-      <translation>%1此版本固件不能进行电调校准。你需要升级到一个较新的固件。</translation>
+      <translation>%1此版本固件不能进行电调校准.你需要升级到一个较新的固件.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="59"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="59"/>
       <source>%1 cannot perform ESC Calibration with this version of firmware. You will need to upgrade %1.</source>
-      <translation>%1 无法使用此版本的固件执行电调校准。您将需要升级 %1。</translation>
+      <translation>%1 无法使用此版本的固件执行电调校准.您将需要升级 %1.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="536"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="536"/>
       <source>Performing calibration. This will take a few seconds..</source>
-      <translation>执行校准。这需要几秒钟。</translation>
+      <translation>执行校准.这需要几秒钟.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="60"/>
@@ -13208,25 +13208,25 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="538"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="538"/>
       <source>Calibration complete. You can disconnect your battery now if you like.</source>
-      <translation>校准完成。如果您想断开电池，现在可以了。</translation>
+      <translation>校准完成.如果您想断开电池,现在可以了.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="545"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="545"/>
       <source>WARNING: Props must be removed from vehicle prior to performing ESC calibration.</source>
-      <translation>警告：在执行电调校准之前，飞机上的螺旋桨必须先拆卸下来。</translation>
+      <translation>警告：在执行电调校准之前,飞机上的螺旋桨必须先拆卸下来.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="545"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="545"/>
       <source> Connect the battery now and calibration will begin.</source>
-      <translation> 现在连接电池，然后校准就会开始。</translation>
+      <translation> 现在连接电池,然后校准就会开始.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="60"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="60"/>
       <source>You must disconnect the battery prior to performing ESC Calibration. Disconnect your battery and try again.</source>
-      <translation>在电调校准之前你必须先断开你的电池连接，断开你的电池连接并重试。</translation>
+      <translation>在电调校准之前你必须先断开你的电池连接,断开你的电池连接并重试.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="215"/>
@@ -13246,7 +13246,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="433"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="433"/>
       <source>Measure battery voltage using an external voltmeter and enter the value below. Click Calculate to set the new voltage multiplier.</source>
-      <translation>使用外部万用表测量电池电压并输入，点击计算是指新的电压</translation>
+      <translation>使用外部万用表测量电池电压并输入,点击计算是指新的电压</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="440"/>
@@ -13270,7 +13270,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="490"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="490"/>
       <source>Measure current draw using an external current meter and enter the value below. Click Calculate to set the new amps per volt value.</source>
-      <translation>使用外部电流计测量当前牵引电流并输入。单击“计算”义设置新安培数。</translation>
+      <translation>使用外部电流计测量当前牵引电流并输入.单击“计算”义设置新安培数.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="497"/>
@@ -13348,7 +13348,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="339"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="339"/>
       <source>If the battery voltage reported by the vehicle is largely different than the voltage read externally using a voltmeter you can adjust the voltage multiplier value to correct this. </source>
-      <translation>如果飞机所报告的电池电压与使用电压表测量的电压读数有很大差异，那么你可以调整你的电压乘数值来修正。 </translation>
+      <translation>如果飞机所报告的电池电压与使用电压表测量的电压读数有很大差异,那么你可以调整你的电压乘数值来修正. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="340"/>
@@ -13356,7 +13356,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="340"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="364"/>
       <source>Click the Calculate button for help with calculating a new value.</source>
-      <translation>单击“计算”按钮帮助计算新值。</translation>
+      <translation>单击“计算”按钮帮助计算新值.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="344"/>
@@ -13374,7 +13374,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="363"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="363"/>
       <source>If the current draw reported by the vehicle is largely different than the current read externally using a current meter you can adjust the amps per volt value to correct this. </source>
-      <translation>如果载具所报告的电流与使用电流表的电流读数有较大偏差的话，你可以调整“安培/伏特”的值来修正它。 </translation>
+      <translation>如果载具所报告的电流与使用电流表的电流读数有较大偏差的话,你可以调整“安培/伏特”的值来修正它. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="110"/>
@@ -13386,13 +13386,13 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="120"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="120"/>
       <source>WARNING: Propellers must be removed from vehicle prior to performing ESC calibration.</source>
-      <translation>警告：在执行电调校准之前，飞机上的螺旋桨必须先拆卸下来。</translation>
+      <translation>警告：在执行电调校准之前,飞机上的螺旋桨必须先拆卸下来.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="125"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="125"/>
       <source>You must use USB connection for this operation.</source>
-      <translation>必须使用 USB 连接进行此操作。</translation>
+      <translation>必须使用 USB 连接进行此操作.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="129"/>
@@ -13428,19 +13428,19 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="178"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="178"/>
       <source>WARNING: Propellers must be removed from vehicle prior to performing UAVCAN ESC configuration.</source>
-      <translation>警告: 在执行 UAVCAN 电调校准之前，飞机上的螺旋桨必须先拆卸下来。</translation>
+      <translation>警告: 在执行 UAVCAN 电调校准之前,飞机上的螺旋桨必须先拆卸下来.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="184"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="184"/>
       <source>ESC parameters will only be accessible in the editor after assignment.</source>
-      <translation>电调参数只有在分配后才能在编辑器中访问。</translation>
+      <translation>电调参数只有在分配后才能在编辑器中访问.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="190"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="190"/>
       <source>Start the process, then turn each motor into its turn direction, in the order of their motor indices.</source>
-      <translation>开始流程，然后按电机序号的顺序调整每个电机的旋转方向。</translation>
+      <translation>开始流程,然后按电机序号的顺序调整每个电机的旋转方向.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="195"/>
@@ -13470,19 +13470,19 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="391"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="391"/>
       <source>Batteries show less voltage at high throttle. Enter the difference in Volts between idle throttle and full </source>
-      <translation>电池在高油门时会显示较低的电压。请输入怠速油门最大油门时的电压压差。 </translation>
+      <translation>电池在高油门时会显示较低的电压.请输入怠速油门最大油门时的电压压差. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="392"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="392"/>
       <source>throttle, divided by the number of battery cells. Leave at the default if unsure. </source>
-      <translation>油门值，除以电池芯数。如果不确定保持默认值。</translation>
+      <translation>油门值,除以电池芯数.如果不确定保持默认值.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="393"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="393"/>
       <source>If this value is set too high, the battery might be deep discharged and damaged.</source>
-      <translation>如果此值设置过高，电池可能会因深度放电而损坏。</translation>
+      <translation>如果此值设置过高,电池可能会因深度放电而损坏.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="398"/>
@@ -13504,7 +13504,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.cc" line="30"/>
       <source>Power Setup is used to setup battery parameters as well as advanced settings for propellers.</source>
-      <translation>电源设置，用于设置电池参数以及螺旋桨的高级设置。</translation>
+      <translation>电源设置,用于设置电池参数以及螺旋桨的高级设置.</translation>
     </message>
   </context>
   <context>
@@ -13543,12 +13543,12 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/FlightDisplay/PreFlightBatteryCheck.qml" line="22"/>
       <source>Warning - Battery charge below %1%.</source>
-      <translation>警告 - 电池电量低于 %1%。</translation>
+      <translation>警告 - 电池电量低于 %1%.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightBatteryCheck.qml" line="23"/>
       <source>Battery charge below %1%. Please recharge.</source>
-      <translation>电池电量低于 %1%。请重新充电。</translation>
+      <translation>电池电量低于 %1%.请重新充电.</translation>
     </message>
   </context>
   <context>
@@ -13613,17 +13613,17 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/FlightDisplay/PreFlightGPSCheck.qml" line="20"/>
       <source>Waiting for 3D lock.</source>
-      <translation>等待3D定位中。</translation>
+      <translation>等待3D定位中.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightGPSCheck.qml" line="31"/>
       <source>Warning - Sat count below %1.</source>
-      <translation>警告 - 卫星数低于%1。</translation>
+      <translation>警告 - 卫星数低于%1.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightGPSCheck.qml" line="31"/>
       <source>Waiting for sat count above %1.</source>
-      <translation>等待卫星数升至 %1 以上。</translation>
+      <translation>等待卫星数升至 %1 以上.</translation>
     </message>
   </context>
   <context>
@@ -13636,12 +13636,12 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/FlightDisplay/PreFlightRCCheck.qml" line="18"/>
       <source>Receiving signal. Perform range test &amp; confirm.</source>
-      <translation>接收信号中。执行拉距测试并确认。</translation>
+      <translation>接收信号中.执行拉距测试并确认.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightRCCheck.qml" line="19"/>
       <source>No signal or invalid autopilot-RC config. Check RC and console.</source>
-      <translation>无信号或无效的自动驾驶仪遥控配置。请检查遥控设备和控制台。</translation>
+      <translation>无信号或无效的自动驾驶仪遥控配置.请检查遥控设备和控制台.</translation>
     </message>
   </context>
   <context>
@@ -13654,37 +13654,37 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/FlightDisplay/PreFlightSensorsHealthCheck.qml" line="35"/>
       <source>Failure. Magnetometer issues. Check console.</source>
-      <translation>失败。磁力计问题。请查看控制台。</translation>
+      <translation>失败.磁力计问题.请查看控制台.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightSensorsHealthCheck.qml" line="36"/>
       <source>Failure. Accelerometer issues. Check console.</source>
-      <translation>失败。加速度计问题。请查看控制台。</translation>
+      <translation>失败.加速度计问题.请查看控制台.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightSensorsHealthCheck.qml" line="37"/>
       <source>Failure. Gyroscope issues. Check console.</source>
-      <translation>失败。陀螺仪问题。请查看控制台。</translation>
+      <translation>失败.陀螺仪问题.请查看控制台.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightSensorsHealthCheck.qml" line="38"/>
       <source>Failure. Barometer issues. Check console.</source>
-      <translation>失败。气压计问题。请查看控制台。</translation>
+      <translation>失败.气压计问题.请查看控制台.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightSensorsHealthCheck.qml" line="39"/>
       <source>Failure. Airspeed sensor issues. Check console.</source>
-      <translation>失败。空速传感器问题。请查看控制台。</translation>
+      <translation>失败.空速传感器问题.请查看控制台.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightSensorsHealthCheck.qml" line="40"/>
       <source>Failure. AHRS issues. Check console.</source>
-      <translation>失败。AHRS问题。请查看控制台。</translation>
+      <translation>失败.AHRS问题.请查看控制台.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightSensorsHealthCheck.qml" line="41"/>
       <source>Failure. GPS issues. Check console.</source>
-      <translation>失败。GPS问题。请查看控制台。</translation>
+      <translation>失败.GPS问题.请查看控制台.</translation>
     </message>
   </context>
   <context>
@@ -13697,12 +13697,12 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/FlightDisplay/PreFlightSoundCheck.qml" line="17"/>
       <source>QGC audio output enabled. System audio output enabled, too?</source>
-      <translation>QGC 音频输出已启用。系统音频输出也确认启用了吗？</translation>
+      <translation>QGC 音频输出已启用.系统音频输出也确认启用了吗？</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightSoundCheck.qml" line="18"/>
       <source>QGC audio output is disabled. Please enable it under application settings-&gt;general to hear audio warnings!</source>
-      <translation>QGC 音频输出被禁用。请在”应用程序设置-&gt;常规“下启用它以听到音频警告！</translation>
+      <translation>QGC 音频输出被禁用.请在”应用程序设置-&gt;常规“下启用它以听到音频警告！</translation>
     </message>
   </context>
   <context>
@@ -13718,38 +13718,38 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/QGCApplication.cc" line="198"/>
       <source>You are running %1 as root. You should not do this since it will cause other issues with %1.%1 will now exit.&lt;br/&gt;&lt;br/&gt;If you are having serial port issues on Ubuntu, execute the following commands to fix most issues:&lt;br/&gt;&lt;pre&gt;sudo usermod -a -G dialout $USER&lt;br/&gt;sudo apt-get remove modemmanager&lt;/pre&gt;</source>
-      <translation>您正在以 root 用户运行 %1 。您不应该这样做，因为这会导致 %1的很多问题。%1 现在将退出。
-如果在 Ubuntu 上有串行端口问题，可执行以下命令来修复大多数问题：
+      <translation>您正在以 root 用户运行 %1 .您不应该这样做,因为这会导致 %1的很多问题.%1 现在将退出.
+如果在 Ubuntu 上有串行端口问题,可执行以下命令来修复大多数问题：
 sudo usermod -a -G dialout $USER
 sudo apt-get remove modemmanager</translation>
     </message>
     <message>
       <location filename="../src/QGCApplication.cc" line="214"/>
       <source>The current user does not have the correct permissions to access serial devices. You should also remove modemmanager since it also interferes.&lt;br/&gt;&lt;br/&gt;If you are using Ubuntu, execute the following commands to fix these issues:&lt;br/&gt;&lt;pre&gt;sudo usermod -a -G dialout $USER&lt;br/&gt;sudo apt-get remove modemmanager&lt;/pre&gt;</source>
-      <translation>当前用户没有访问串行设备的正确权限。您还应该删除调制解调器管理器，因为它也会干扰。
-如果您正在使用 Ubuntu， 执行以下命令来解决这些问题：
+      <translation>当前用户没有访问串行设备的正确权限.您还应该删除调制解调器管理器,因为它也会干扰.
+如果您正在使用 Ubuntu, 执行以下命令来解决这些问题：
 sudo usermod -a -G dialout $USER
 sudo apt-get 移除调制解调器管理器</translation>
     </message>
     <message>
       <location filename="../src/QGCApplication.cc" line="580"/>
       <source>The format for %1 saved settings has been modified. Your saved settings have been reset to defaults.</source>
-      <translation>%1的格式已被更改。您之前保存的设置已经被重置。</translation>
+      <translation>%1的格式已被更改.您之前保存的设置已经被重置.</translation>
     </message>
     <message>
       <location filename="../src/QGCApplication.cc" line="588"/>
       <source>The Offline Map Cache database has been upgraded. Your old map cache sets have been reset.</source>
-      <translation>离线地图缓存数据库已经升级。您旧的地图缓存设置已被重置。</translation>
+      <translation>离线地图缓存数据库已经升级.您旧的地图缓存设置已被重置.</translation>
     </message>
     <message>
       <location filename="../src/QGCApplication.cc" line="656"/>
       <source>Unable to save telemetry log. Error copying telemetry to &apos;%1&apos;: &apos;%2&apos;.</source>
-      <translation>无法保存遥测日志。复制遥测到”%1“：”%2“时出错。</translation>
+      <translation>无法保存遥测日志.复制遥测到”%1“：”%2“时出错.</translation>
     </message>
     <message>
       <location filename="../src/QGCApplication.cc" line="714"/>
       <source>Parameters are missing from firmware. You may be running a version of firmware which is not fully supported or your firmware has a bug in it. Missing params: %1</source>
-      <translation>从固件中缺少参数。 您可能正在运行一个不完全支持的固件版本，或者您的固件里有一个错误。 缺少参数： %1</translation>
+      <translation>从固件中缺少参数. 您可能正在运行一个不完全支持的固件版本,或者您的固件里有一个错误. 缺少参数： %1</translation>
     </message>
     <message>
       <location filename="../src/QGCApplication.cc" line="855"/>
@@ -13764,12 +13764,12 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/QGCApplication.cc" line="673"/>
       <source>Unable to save telemetry log. Application save directory is not set.</source>
-      <translation>无法保存遥测日志。应用程序保存目录未设置。</translation>
+      <translation>无法保存遥测日志.应用程序保存目录未设置.</translation>
     </message>
     <message>
       <location filename="../src/QGCApplication.cc" line="680"/>
       <source>Unable to save telemetry log. Telemetry save directory &quot;%1&quot; does not exist.</source>
-      <translation>无法保存遥测日志。遥测保存目录“%1”不存在。</translation>
+      <translation>无法保存遥测日志.遥测保存目录“%1”不存在.</translation>
     </message>
   </context>
   <context>
@@ -13871,7 +13871,7 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="286"/>
       <source>WARNING: You are about to enter Advanced Mode. If used incorrectly, this may cause your vehicle to malfunction thus voiding your warranty. You should do so only if instructed by customer support. Are you sure you want to enable Advanced Mode?</source>
-      <translation>警告：您即将进入高级模式。如果使用不当，这可能导致您的飞机故障，从而使您的保修作废。只有在客户支持的指导下才能这样做。是否确实要启用高级模式？</translation>
+      <translation>警告：您即将进入高级模式.如果使用不当,这可能导致您的飞机故障,从而使您的保修作废.只有在客户支持的指导下才能这样做.是否确实要启用高级模式？</translation>
     </message>
   </context>
   <context>
@@ -13916,12 +13916,12 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/QmlControls/QGCFileDialog.qml" line="219"/>
       <source>File names must end with .%1 file extension. If missing it will be added.</source>
-      <translation>文件名必须以.%1为后缀。如果没有则会被加上。</translation>
+      <translation>文件名必须以.%1为后缀.如果没有则会被加上.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/QGCFileDialog.qml" line="227"/>
       <source>The file %1 exists. Click Save again to replace it.</source>
-      <translation>文件 %1 存在。再次单击保存来覆盖它。</translation>
+      <translation>文件 %1 存在.再次单击保存来覆盖它.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/QGCFileDialog.qml" line="235"/>
@@ -13939,7 +13939,7 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/QGCFileDownload.cc" line="112"/>
       <source>Could not save downloaded file to %1. Error: %2</source>
-      <translation>未能保存下载的文件到 %1。错误：%2</translation>
+      <translation>未能保存下载的文件到 %1.错误：%2</translation>
     </message>
     <message>
       <location filename="../src/QGCFileDownload.cc" line="135"/>
@@ -13954,7 +13954,7 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/QGCFileDownload.cc" line="141"/>
       <source>Error during download. Error: %1</source>
-      <translation>下载过程中出错。错误：%1</translation>
+      <translation>下载过程中出错.错误：%1</translation>
     </message>
   </context>
   <context>
@@ -13998,7 +13998,7 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/MissionManager/QGCMapPolygonVisuals.qml" line="51"/>
       <source>Click in the map to add vertices. Click &apos;Done Tracing&apos; when finished.</source>
-      <translation>点击地图添加顶点。完成后点击 ‘完成追踪’。</translation>
+      <translation>点击地图添加顶点.完成后点击 ‘完成追踪’.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/QGCMapPolygonVisuals.qml" line="261"/>
@@ -14057,7 +14057,7 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/MissionManager/QGCMapPolylineVisuals.qml" line="41"/>
       <source>Click in the map to add vertices. Click &apos;Done Tracing&apos; when finished.</source>
-      <translation>点击地图添加顶点。完成后点击 ‘完成追踪’。</translation>
+      <translation>点击地图添加顶点.完成后点击 ‘完成追踪’.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/QGCMapPolylineVisuals.qml" line="128"/>
@@ -14409,7 +14409,7 @@ sudo apt-get 移除调制解调器管理器</translation>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="28"/>
       <location filename="../src/Vehicle/Vehicle.cc" line="68"/>
       <source>Guided mode not supported by Vehicle.</source>
-      <translation>飞机不支持引导模式。</translation>
+      <translation>飞机不支持引导模式.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="32"/>
@@ -14434,7 +14434,7 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/JsonHelper.cc" line="73"/>
       <source>Coordinate array may only contain double values, found: %1</source>
-      <translation>坐标数组可能只包含双精度值，找到：%1</translation>
+      <translation>坐标数组可能只包含双精度值,找到：%1</translation>
     </message>
     <message>
       <location filename="../src/JsonHelper.cc" line="151"/>
@@ -14444,7 +14444,7 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/JsonHelper.cc" line="209"/>
       <source>Incorrect file type key expected:%1 actual:%2</source>
-      <translation>文件类型密钥不正确，期望：%1 实际：%2</translation>
+      <translation>文件类型密钥不正确,期望：%1 实际：%2</translation>
     </message>
     <message>
       <location filename="../src/JsonHelper.cc" line="216"/>
@@ -14474,7 +14474,7 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/main.cc" line="253"/>
       <source>A second instance of %1 is already running. Please close the other instance and try again.</source>
-      <translation>%1的第二个实例已经在运行。请关闭其他实例，然后重试。</translation>
+      <translation>%1的第二个实例已经在运行.请关闭其他实例,然后重试.</translation>
     </message>
   </context>
   <context>
@@ -14618,12 +14618,12 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/QmlControls/RCToParamDialog.qml" line="44"/>
       <source>Bind an RC Channel to a parameter value. Tuning IDs can be mapped to an RC Channel from Radio Setup page.</source>
-      <translation>将RC通道绑定到参数值。可以从电台设置页面将id调优映射到RC频道。</translation>
+      <translation>将RC通道绑定到参数值.可以从电台设置页面将id调优映射到RC频道.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/RCToParamDialog.qml" line="50"/>
       <source>Waiting on parameter update from Vehicle.</source>
-      <translation>正在等待车辆的参数更新。</translation>
+      <translation>正在等待车辆的参数更新.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/RCToParamDialog.qml" line="61"/>
@@ -14658,7 +14658,7 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/QmlControls/RCToParamDialog.qml" line="101"/>
       <source>Double check that all values are correct prior to confirming dialog.</source>
-      <translation>在确认对话框之前，请仔细检查所有值是否正确。</translation>
+      <translation>在确认对话框之前,请仔细检查所有值是否正确.</translation>
     </message>
   </context>
   <context>
@@ -14689,7 +14689,7 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="54"/>
       <source>Your stick mappings have changed, you must reboot the vehicle for correct operation.</source>
-      <translation>你的摇杆映射已经被修改，你必须重启飞机以便正确操作。</translation>
+      <translation>你的摇杆映射已经被修改,你必须重启飞机以便正确操作.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="55"/>
@@ -14699,41 +14699,41 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="55"/>
       <source>Calibration failed. The throttle channel on your transmitter is reversed. You must correct this on your transmitter in order to complete calibration.</source>
-      <translation>校准失败。您遥控器上的油门通道已反向。你需要在你的发射机上修正这个问题来完成校准。</translation>
+      <translation>校准失败.您遥控器上的油门通道已反向.你需要在你的发射机上修正这个问题来完成校准.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="61"/>
       <source>Center your sticks and move throttle all the way down, then press Ok to copy trims. After pressing Ok, reset the trims on your radio back to zero.</source>
-      <translation>将遥控器摇杆居中并将油门放到最低位置，然后按确定开始复制微调量。 按“确定”后，将遥控器上的微调设为0。</translation>
+      <translation>将遥控器摇杆居中并将油门放到最低位置,然后按确定开始复制微调量. 按“确定”后,将遥控器上的微调设为0.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="72"/>
       <source>Before calibrating you should zero all your trims and subtrims. Click Ok to start Calibration.
 
 %1</source>
-      <translation>在校准之前，你应该把所有的微调和辅助微调量设为零。单击“确定”开始校准。
+      <translation>在校准之前,你应该把所有的微调和辅助微调量设为零.单击“确定”开始校准.
 
 %1</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="73"/>
       <source>Please ensure all motor power is disconnected AND all props are removed from the vehicle.</source>
-      <translation>请确保断开所有电机电源，并且从飞机上卸下所有螺旋桨。</translation>
+      <translation>请确保断开所有电机电源,并且从飞机上卸下所有螺旋桨.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="84"/>
       <source>Please turn on transmitter.</source>
-      <translation>请打开发射机。</translation>
+      <translation>请打开发射机.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="84"/>
       <source>%1 channels or more are needed to fly.</source>
-      <translation>需要%1个或者更多通道以进行飞行。</translation>
+      <translation>需要%1个或者更多通道以进行飞行.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="110"/>
       <source>Click Ok to place your Spektrum receiver in the bind mode. Select the specific receiver type below:</source>
-      <translation>单击“确定”将 Spektrum 接收机置于对频（bind）模式下。在下面选择接收机类型：</translation>
+      <translation>单击“确定”将 Spektrum 接收机置于对频（bind）模式下.在下面选择接收机类型：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="114"/>
@@ -14831,9 +14831,9 @@ sudo apt-get 移除调制解调器管理器</translation>
 It is recommended to disconnect all motors for additional safety, however, the system is designed to not arm during the calibration.
 
 Click Next to continue</source>
-      <translation>按照图中所示将油门摇杆移动到最低位置。
+      <translation>按照图中所示将油门摇杆移动到最低位置.
 
-系统设计为在校准过程中不会解锁，但为了保证安全性，建议将所有电机断开。
+系统设计为在校准过程中不会解锁,但为了保证安全性,建议将所有电机断开.
 
 单击“下一步”继续</translation>
     </message>
@@ -14845,10 +14845,10 @@ Reset all transmitter trims to center.
 Please ensure all motor power is disconnected AND all props are removed from the vehicle.
 
 Click Next to continue</source>
-      <translation>按照图中所示将油门摇杆移动到最低位置。
-将发射机上的所有微调重置回中。
+      <translation>按照图中所示将油门摇杆移动到最低位置.
+将发射机上的所有微调重置回中.
 
-确保断开所有的电机电源并卸下飞机上的所有螺旋桨。
+确保断开所有的电机电源并卸下飞机上的所有螺旋桨.
 
 单击“下一步”继续</translation>
     </message>
@@ -14900,12 +14900,12 @@ Click Next to continue</source>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponentController.cc" line="133"/>
       <source>Move all the transmitter switches and/or dials back and forth to their extreme positions.</source>
-      <translation>来回扳动所有发射机上的开关与旋钮开关，达到它们的极限位置。</translation>
+      <translation>来回扳动所有发射机上的开关与旋钮开关,达到它们的极限位置.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponentController.cc" line="134"/>
       <source>All settings have been captured. Click Next to write the new parameters to your board.</source>
-      <translation>已获取所有设置，点击下一步将所有参数写入你的飞控板。</translation>
+      <translation>已获取所有设置,点击下一步将所有参数写入你的飞控板.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponentController.cc" line="201"/>
@@ -14915,10 +14915,10 @@ Reset all transmitter trims to center.
 Please ensure all motor power is disconnected from the vehicle.
 
 Click Next to continue</source>
-      <translation>按照图中所示将油门摇杆移动到中位。
-将发射机上的所有微调重置回中。
+      <translation>按照图中所示将油门摇杆移动到中位.
+将发射机上的所有微调重置回中.
 
-请确保断开所有的电机电源。
+请确保断开所有的电机电源.
 
 单击“下一步”继续</translation>
     </message>
@@ -14937,9 +14937,9 @@ Click Next to continue</source>
       <source>The current calibration settings are now displayed for each channel on screen.
 
 Click the Next button to upload calibration to board. Click Cancel if you don&apos;t want to save these values.</source>
-      <translation>当前各通道的校准设置现已显示在屏幕上。
+      <translation>当前各通道的校准设置现已显示在屏幕上.
 
-单击下一步按钮上传校准结果到飞控板上。如果你不想保存这些校准值请单击取消按钮。</translation>
+单击下一步按钮上传校准结果到飞控板上.如果你不想保存这些校准值请单击取消按钮.</translation>
     </message>
   </context>
   <context>
@@ -14965,7 +14965,7 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
       <location filename="../src/PlanView/RallyPointEditorHeader.qml" line="51"/>
       <source>Rally Points provide alternate landing points when performing a Return to Launch (RTL).</source>
-      <translation>集结点，在执行返回返航模式（RTL）时提供备用着陆点。</translation>
+      <translation>集结点,在执行返回返航模式（RTL）时提供备用着陆点.</translation>
     </message>
   </context>
   <context>
@@ -15020,7 +15020,7 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
       <location filename="../src/FlightDisplay/RoverChecklist.qml" line="54"/>
       <source>Please confirm mission is valid (waypoints valid, no terrain collision).</source>
-      <translation>请确认飞行任务是否可用（航点有效，没有地形障碍）。</translation>
+      <translation>请确认飞行任务是否可用（航点有效,没有地形障碍）.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/RoverChecklist.qml" line="62"/>
@@ -15063,17 +15063,17 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
       <location filename="../src/SHPFileHelper.cc" line="18"/>
       <source>SHP file load failed. %1</source>
-      <translation>SHP 文件加载失败。 %1</translation>
+      <translation>SHP 文件加载失败. %1</translation>
     </message>
     <message>
       <location filename="../src/SHPFileHelper.cc" line="51"/>
       <source>UTM projection is not in supported format. Must be PROJCS[&quot;WGS_1984_UTM_Zone_##N/S</source>
-      <translation>不支持的UTM投影格式。必须是PROJCS[&quot;WGS_1984_UTM_Zone_##N/S</translation>
+      <translation>不支持的UTM投影格式.必须是PROJCS[&quot;WGS_1984_UTM_Zone_##N/S</translation>
     </message>
     <message>
       <location filename="../src/SHPFileHelper.cc" line="54"/>
       <source>Only WGS84 or UTM projections are supported.</source>
-      <translation>仅支持WGS84或UTM预测。</translation>
+      <translation>仅支持WGS84或UTM预测.</translation>
     </message>
     <message>
       <location filename="../src/SHPFileHelper.cc" line="57"/>
@@ -15093,27 +15093,27 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
       <location filename="../src/SHPFileHelper.cc" line="79"/>
       <source>SHPOpen failed.</source>
-      <translation>SHP打开失败。</translation>
+      <translation>SHP打开失败.</translation>
     </message>
     <message>
       <location filename="../src/SHPFileHelper.cc" line="101"/>
       <source>More than one entity found.</source>
-      <translation>找到了多个实体。</translation>
+      <translation>找到了多个实体.</translation>
     </message>
     <message>
       <location filename="../src/SHPFileHelper.cc" line="105"/>
       <source>No supported types found.</source>
-      <translation>没有找到支持的类型。</translation>
+      <translation>没有找到支持的类型.</translation>
     </message>
     <message>
       <location filename="../src/SHPFileHelper.cc" line="133"/>
       <source>File does not contain a polygon.</source>
-      <translation>文件不包含多边形。</translation>
+      <translation>文件不包含多边形.</translation>
     </message>
     <message>
       <location filename="../src/SHPFileHelper.cc" line="139"/>
       <source>Only single part polygons are supported.</source>
-      <translation>仅支持少数多边形。</translation>
+      <translation>仅支持少数多边形.</translation>
     </message>
   </context>
   <context>
@@ -15260,7 +15260,7 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
       <location filename="../src/AutoPilotPlugins/PX4/SafetyComponent.qml" line="462"/>
       <location filename="../src/AutoPilotPlugins/PX4/SafetyComponent.qml" line="462"/>
       <source>Return to launch, then:</source>
-      <translation>返回启动，然后：</translation>
+      <translation>返回启动,然后：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SafetyComponent.qml" line="605"/>
@@ -15382,7 +15382,7 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
       <location filename="../src/AutoPilotPlugins/PX4/SafetyComponentSummary.qml" line="53"/>
       <location filename="../src/AutoPilotPlugins/PX4/SafetyComponentSummary.qml" line="53"/>
       <source>RTL, Then</source>
-      <translation>返航，然后</translation>
+      <translation>返航,然后</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SafetyComponentSummary.qml" line="55"/>
@@ -15425,7 +15425,7 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsComponent.cc" line="39"/>
       <source>Sensors Setup is used to calibrate the sensors within your vehicle.</source>
-      <translation>传感器设置，用于校准你的飞机内的传感器。</translation>
+      <translation>传感器设置,用于校准你的飞机内的传感器.</translation>
     </message>
   </context>
   <context>
@@ -15438,22 +15438,22 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsComponentController.cc" line="190"/>
       <source>Calibration failed. Calibration log will be displayed.</source>
-      <translation>校准失败。将会显示校准日志。</translation>
+      <translation>校准失败.将会显示校准日志.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsComponentController.cc" line="276"/>
       <source>Unsupported calibration firmware version, using log</source>
-      <translation>固件版本不支持校准，正在记录日志</translation>
+      <translation>固件版本不支持校准,正在记录日志</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsComponentController.cc" line="308"/>
       <source>Place your vehicle into one of the Incomplete orientations shown below and hold it still</source>
-      <translation>把你的飞机置于下面显示的一个未完成的方向，然后保持静止</translation>
+      <translation>把你的飞机置于下面显示的一个未完成的方向,然后保持静止</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsComponentController.cc" line="393"/>
       <source>Rotate the vehicle continuously as shown in the diagram until marked as Completed</source>
-      <translation>如下图示连续旋转飞机，直到标记为已完成。</translation>
+      <translation>如下图示连续旋转飞机,直到标记为已完成.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsComponentController.cc" line="395"/>
@@ -15463,12 +15463,12 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsComponentController.cc" line="433"/>
       <source>Place you vehicle into one of the orientations shown below and hold it still</source>
-      <translation>把你的飞机摆放至如下面所示的一个方向，并保持静止</translation>
+      <translation>把你的飞机摆放至如下面所示的一个方向,并保持静止</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsComponentController.cc" line="442"/>
       <source>Orientation already completed, place you vehicle into one of the incomplete orientations shown below and hold it still</source>
-      <translation>方向设置已经完成，把你的飞机放置到下面显示的一个未完成的方向并保持静止</translation>
+      <translation>方向设置已经完成,把你的飞机放置到下面显示的一个未完成的方向并保持静止</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsComponentController.cc" line="502"/>
@@ -15597,19 +15597,19 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="41"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="42"/>
       <source>If the orientation is in the direction of flight, select ROTATION_NONE.</source>
-      <translation>如果方向正是飞行方向，请选择 ROTATION_NONE。</translation>
+      <translation>如果方向正是飞行方向,请选择 ROTATION_NONE.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="48"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="48"/>
       <source>For Airspeed calibration you will need to keep your airspeed sensor out of any wind and then blow across the sensor. Do not touch the sensor or obstruct any holes during the calibration.</source>
-      <translation>在校准空速计时，您需要保持没有任何风吹过传感器。在校准过程中，请勿触摸传感器或堵塞任何孔。</translation>
+      <translation>在校准空速计时,您需要保持没有任何风吹过传感器.在校准过程中,请勿触摸传感器或堵塞任何孔.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="50"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="50"/>
       <source>Start the individual calibration steps by clicking one of the buttons to the left.</source>
-      <translation>要开始某个校准步骤，请点击左侧的一个按钮。</translation>
+      <translation>要开始某个校准步骤,请点击左侧的一个按钮.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="201"/>
@@ -15633,19 +15633,19 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="214"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="214"/>
       <source>Performing sensor calibration over a WiFi connection is known to be unreliable. You should disconnect and perform calibration using a direct USB connection instead.</source>
-      <translation>用WiFi连接的方式校准传感器已被证实是不可靠的。你应该断开连接并使用USB直接连接。</translation>
+      <translation>用WiFi连接的方式校准传感器已被证实是不可靠的.你应该断开连接并使用USB直接连接.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="222"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="222"/>
       <source>Waiting for Vehicle to response to Cancel. This may take a few seconds.</source>
-      <translation>等待飞机响应以取消。这可能需要几秒钟。</translation>
+      <translation>等待飞机响应以取消.这可能需要几秒钟.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="272"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="272"/>
       <source>Set autopilot orientation before calibrating.</source>
-      <translation>在校准之前请设置自动驾驶仪方向。</translation>
+      <translation>在校准之前请设置自动驾驶仪方向.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="332"/>
@@ -15856,7 +15856,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/comm/SerialLink.cc" line="121"/>
       <source>Error connecting: Could not create port. %1</source>
-      <translation>连接错误：无法创建端口。 %1</translation>
+      <translation>连接错误：无法创建端口. %1</translation>
     </message>
     <message>
       <location filename="../src/comm/SerialLink.cc" line="244"/>
@@ -15965,7 +15965,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/VehicleSetup/SetupView.qml" line="35"/>
       <source>This operation cannot be performed while the vehicle is armed.</source>
-      <translation>飞机解锁期间，不能执行此操作。</translation>
+      <translation>飞机解锁期间,不能执行此操作.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/SetupView.qml" line="38"/>
@@ -15975,27 +15975,27 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/VehicleSetup/SetupView.qml" line="80"/>
       <source>%1 setup must be completed prior to %2 setup.</source>
-      <translation>%1 设置必须在 %2 设置之前完成。</translation>
+      <translation>%1 设置必须在 %2 设置之前完成.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/SetupView.qml" line="132"/>
       <source>%1 does not currently support setup of your vehicle type. </source>
-      <translation>%1 当前不支持您的飞机类型的设定。 </translation>
+      <translation>%1 当前不支持您的飞机类型的设定. </translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/SetupView.qml" line="150"/>
       <source>Vehicle settings and info will display after connecting your vehicle.</source>
-      <translation>飞机设置和信息将在连接飞机后显示。</translation>
+      <translation>飞机设置和信息将在连接飞机后显示.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/SetupView.qml" line="171"/>
       <source>You are currently connected to a vehicle but it did not return the full parameter list. </source>
-      <translation>您当前已连接到飞机，但未返回完整参数列表。 </translation>
+      <translation>您当前已连接到飞机,但未返回完整参数列表. </translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/SetupView.qml" line="172"/>
       <source>As a result, the full set of vehicle setup options are not available.</source>
-      <translation>因此，整套飞行器设置选项不可用。</translation>
+      <translation>因此,整套飞行器设置选项不可用.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/SetupView.qml" line="231"/>
@@ -16028,12 +16028,12 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/ShapeFileHelper.cc" line="17"/>
       <source>Shape file load failed. %1</source>
-      <translation>形状文件加载失败。 %1</translation>
+      <translation>形状文件加载失败. %1</translation>
     </message>
     <message>
       <location filename="../src/ShapeFileHelper.cc" line="40"/>
       <source>Unsupported file type. Only .%1 and .%2 are supported.</source>
-      <translation>不支持的文件类型。仅支持%1 和 .%2。</translation>
+      <translation>不支持的文件类型.仅支持%1 和 .%2.</translation>
     </message>
     <message>
       <location filename="../src/ShapeFileHelper.cc" line="93"/>
@@ -16071,7 +16071,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="65"/>
       <source>Provides advanced access to all commands/parameters. Be very careful!</source>
-      <translation>提供对所有命令/参数的高级访问。请非常小心！</translation>
+      <translation>提供对所有命令/参数的高级访问.请非常小心！</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="77"/>
@@ -16116,17 +16116,17 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="105"/>
       <source>Click in map to set planned Takeoff location.</source>
-      <translation>点击地图来设置计划的起飞位置。</translation>
+      <translation>点击地图来设置计划的起飞位置.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="106"/>
       <source>Click in map to set planned Launch location.</source>
-      <translation>点击地图来设置计划的启动位置。</translation>
+      <translation>点击地图来设置计划的启动位置.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="129"/>
       <source>Altitude below specifies the approximate altitude of the ground. Normally 0 for landing back at original launch location.</source>
-      <translation>下面的高度指定了地面的大概高度。通常为0表示降落在原始发射位置。</translation>
+      <translation>下面的高度指定了地面的大概高度.通常为0表示降落在原始发射位置.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="183"/>
@@ -16207,7 +16207,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="69"/>
       <source>Use the Polygon Tools to create the polygon which outlines the structure.</source>
-      <translation>使用多边形工具创建轮廓结构的多边形。</translation>
+      <translation>使用多边形工具创建轮廓结构的多边形.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="100"/>
@@ -16222,12 +16222,12 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="113"/>
       <source>Note: Polygon respresents structure surface not vehicle flight path.</source>
-      <translation>注意：多边形用于构造航测面，而不是飞机的飞行路径。</translation>
+      <translation>注意：多边形用于构造航测面,而不是飞机的飞行路径.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="121"/>
       <source>WARNING: Photo interval is below minimum interval (%1 secs) supported by camera.</source>
-      <translation>警告：拍照间隔低于相机支持的最小间隔（%1秒）。</translation>
+      <translation>警告：拍照间隔低于相机支持的最小间隔（%1秒）.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="130"/>
@@ -16352,7 +16352,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="54"/>
       <source>Move all control surfaces. Did they work properly?</source>
-      <translation>请尝试移动所有舵面。它们都能正常工作吗？</translation>
+      <translation>请尝试移动所有舵面.它们都能正常工作吗？</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="58"/>
@@ -16362,7 +16362,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="59"/>
       <source>Propellers free? Then throttle up gently. Working properly?</source>
-      <translation>螺旋桨周围是否有足够的空间？轻推油门，观察是否一切正常？</translation>
+      <translation>螺旋桨周围是否有足够的空间？轻推油门,观察是否一切正常？</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="63"/>
@@ -16372,7 +16372,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="64"/>
       <source>Please confirm mission is valid (waypoints valid, no terrain collision).</source>
-      <translation>请确认飞行任务是否可用（航点有效，没有地形障碍）。</translation>
+      <translation>请确认飞行任务是否可用（航点有效,没有地形障碍）.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="72"/>
@@ -16426,7 +16426,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="18"/>
       <source>Use the Polygon Tools to create the polygon which outlines your survey area.</source>
-      <translation>使用多边形工具创建勘测区域范围的多边形。</translation>
+      <translation>使用多边形工具创建勘测区域范围的多边形.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="19"/>
@@ -16517,7 +16517,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/SyslinkComponent.cc" line="28"/>
       <source>The Syslink Component is used to setup the radio connection on Crazyflies.</source>
-      <translation>Syslink 组件用于在 Crazyfly 上设置遥控连接。</translation>
+      <translation>Syslink 组件用于在 Crazyfly 上设置遥控连接.</translation>
     </message>
   </context>
   <context>
@@ -16539,12 +16539,12 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/comm/TCPLink.cc" line="128"/>
       <source>Error on link %1. Connection failed</source>
-      <translation>连接 %1 出错。连接失败</translation>
+      <translation>连接 %1 出错.连接失败</translation>
     </message>
     <message>
       <location filename="../src/comm/TCPLink.cc" line="142"/>
       <source>Error on link %1. Error on socket: %2.</source>
-      <translation>连接 %1 出错。socket上的错误：%2。</translation>
+      <translation>连接 %1 出错.socket上的错误：%2.</translation>
     </message>
   </context>
   <context>
@@ -16590,7 +16590,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/Taisync/TaisyncSettings.qml" line="56"/>
       <source>Reboot ground unit for changes to take effect.</source>
-      <translation>重新启动地面单元，以便更改生效。</translation>
+      <translation>重新启动地面单元,以便更改生效.</translation>
     </message>
     <message>
       <location filename="../src/Taisync/TaisyncSettings.qml" line="71"/>
@@ -16735,7 +16735,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
       <source>Once changed, you will need to reboot the ground unit for the changes to take effect.
 
 Confirm change?</source>
-      <translation>一旦更改，您需要重启地面单位才能生效。
+      <translation>一旦更改,您需要重启地面单位才能生效.
 
 确认更改？</translation>
     </message>
@@ -16769,7 +16769,7 @@ Confirm change?</source>
       <source>Once changed, you will need to reboot the ground unit for the changes to take effect. The local IP address must match the one entered (%1).
 
 Confirm change?</source>
-      <translation>一旦更改，您需要重启地面单元才能生效。本地IP地址必须与 (%1) 匹配。
+      <translation>一旦更改,您需要重启地面单元才能生效.本地IP地址必须与 (%1) 匹配.
 
 确认更改？</translation>
     </message>
@@ -16779,7 +16779,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/PlanView/TakeoffItemMapVisual.qml" line="132"/>
       <source>Launch</source>
-      <translation>发射，起飞</translation>
+      <translation>发射,起飞</translation>
     </message>
   </context>
   <context>
@@ -17029,7 +17029,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/uas/UAS.cc" line="319"/>
       <source>Unitialized, booting up.</source>
-      <translation>未初始化，启动中。</translation>
+      <translation>未初始化,启动中.</translation>
     </message>
     <message>
       <location filename="../src/uas/UAS.cc" line="322"/>
@@ -17039,7 +17039,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/uas/UAS.cc" line="323"/>
       <source>Booting system, please wait.</source>
-      <translation>正在启动系统，请稍候。</translation>
+      <translation>正在启动系统,请稍候.</translation>
     </message>
     <message>
       <location filename="../src/uas/UAS.cc" line="326"/>
@@ -17049,7 +17049,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/uas/UAS.cc" line="327"/>
       <source>Calibrating sensors, please wait.</source>
-      <translation>正在校准传感器，请稍候。</translation>
+      <translation>正在校准传感器,请稍候.</translation>
     </message>
     <message>
       <location filename="../src/uas/UAS.cc" line="330"/>
@@ -17059,7 +17059,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/uas/UAS.cc" line="331"/>
       <source>Active, normal operation.</source>
-      <translation>激活，正常操作。</translation>
+      <translation>激活,正常操作.</translation>
     </message>
     <message>
       <location filename="../src/uas/UAS.cc" line="334"/>
@@ -17069,7 +17069,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/uas/UAS.cc" line="335"/>
       <source>Standby mode, ready for launch.</source>
-      <translation>待机模式，准备好起飞。</translation>
+      <translation>待机模式,准备好起飞.</translation>
     </message>
     <message>
       <location filename="../src/uas/UAS.cc" line="338"/>
@@ -17079,7 +17079,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/uas/UAS.cc" line="339"/>
       <source>FAILURE: Continuing operation.</source>
-      <translation>故障：继续操作中。</translation>
+      <translation>故障：继续操作中.</translation>
     </message>
     <message>
       <location filename="../src/uas/UAS.cc" line="342"/>
@@ -17099,7 +17099,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/uas/UAS.cc" line="352"/>
       <source>Powering off system.</source>
-      <translation>正在关闭系统电源。</translation>
+      <translation>正在关闭系统电源.</translation>
     </message>
     <message>
       <location filename="../src/uas/UAS.cc" line="356"/>
@@ -17263,7 +17263,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml" line="64"/>
       <source>Choose the measurement units you want to use. You can also change it later in General Settings.</source>
-      <translation>选择您想要使用的测量单位。您也可以稍后在常规设置中更改它。</translation>
+      <translation>选择您想要使用的测量单位.您也可以稍后在常规设置中更改它.</translation>
     </message>
     <message>
       <location filename="../src/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml" line="84"/>
@@ -17319,7 +17319,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="54"/>
       <source>Move all control surfaces. Did they work properly?</source>
-      <translation>请尝试移动所有舵面。它们都能正常工作吗？</translation>
+      <translation>请尝试移动所有舵面.它们都能正常工作吗？</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="58"/>
@@ -17329,7 +17329,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="59"/>
       <source>Propellers free? Then throttle up gently. Working properly?</source>
-      <translation>螺旋桨周围是否有足够的空间？轻推油门，观察是否一切正常？</translation>
+      <translation>螺旋桨周围是否有足够的空间？轻推油门,观察是否一切正常？</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="63"/>
@@ -17339,7 +17339,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="64"/>
       <source>Please confirm mission is valid (waypoints valid, no terrain collision).</source>
-      <translation>请确认飞行任务是否可用（航点有效，没有地形障碍）。</translation>
+      <translation>请确认飞行任务是否可用（航点有效,没有地形障碍）.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="72"/>
@@ -17451,7 +17451,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="218"/>
       <source>* Actual flight path will vary.</source>
-      <translation>* 实际飞行路径将有所不同。</translation>
+      <translation>* 实际飞行路径将有所不同.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="227"/>
@@ -17466,7 +17466,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="262"/>
       <source>Click in map to set landing point.</source>
-      <translation>点击地图以设置着陆点。</translation>
+      <translation>点击地图以设置着陆点.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="269"/>
@@ -17476,7 +17476,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="301"/>
       <source>Drag the loiter point to adjust landing direction for wind and obstacles as well as distance to land point.</source>
-      <translation>拖动悬停点来根据风向和障碍物以及到着陆点的距离调整着陆方向。</translation>
+      <translation>拖动悬停点来根据风向和障碍物以及到着陆点的距离调整着陆方向.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="305"/>
@@ -17577,17 +17577,17 @@ Confirm change?</source>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="2168"/>
       <source>Mission transfer failed. Error: %1</source>
-      <translation>任务传输失败。错误： %1</translation>
+      <translation>任务传输失败.错误： %1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="2174"/>
       <source>GeoFence transfer failed. Error: %1</source>
-      <translation>GeoFence（地理栅栏） 传输失败。错误： %1</translation>
+      <translation>GeoFence（地理栅栏） 传输失败.错误： %1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="2180"/>
       <source>Rally Point transfer failed. Error: %1</source>
-      <translation>集结点转移失败。错误：%1</translation>
+      <translation>集结点转移失败.错误：%1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="1423"/>
@@ -17642,7 +17642,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="2395"/>
       <source>Normal helicopter with tail rotor.</source>
-      <translation>带尾桨的普通直升机。</translation>
+      <translation>带尾桨的普通直升机.</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="2396"/>
@@ -17657,12 +17657,12 @@ Confirm change?</source>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="2398"/>
       <source>Airship, controlled</source>
-      <translation>飞艇，有控制</translation>
+      <translation>飞艇,有控制</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="2399"/>
       <source>Free balloon, uncontrolled</source>
-      <translation>自由飞行气球，不受控制</translation>
+      <translation>自由飞行气球,不受控制</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="2400"/>
@@ -17677,7 +17677,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="2402"/>
       <source>Surface vessel, boat, ship</source>
-      <translation>水面大船，中船，小船</translation>
+      <translation>水面大船,中船,小船</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="2403"/>
@@ -17709,12 +17709,12 @@ Confirm change?</source>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="2410"/>
       <source>Two-rotor VTOL using control surfaces in vertical operation in addition. Tailsitter</source>
-      <translation>另外，双旋翼VTOL在垂直操作时使用控制舵面。 尾座式</translation>
+      <translation>另外,双旋翼VTOL在垂直操作时使用控制舵面. 尾座式</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="2411"/>
       <source>Quad-rotor VTOL using a V-shaped quad config in vertical operation. Tailsitter</source>
-      <translation>四旋翼VTOL在垂直操作时使用V型四轴配置。 尾座式</translation>
+      <translation>四旋翼VTOL在垂直操作时使用V型四轴配置. 尾座式</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="2412"/>
@@ -17946,12 +17946,12 @@ Confirm change?</source>
     <message>
       <location filename="../src/VehicleSetup/VehicleSummary.qml" line="87"/>
       <source>Below you will find a summary of the settings for your vehicle. To the left are the setup menus for each component.</source>
-      <translation>您将会从以下信息框中看到飞机设置的概况。左边是每个组件的设置菜单。</translation>
+      <translation>您将会从以下信息框中看到飞机设置的概况.左边是每个组件的设置菜单.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/VehicleSummary.qml" line="88"/>
       <source>WARNING: Your vehicle requires setup prior to flight. Please resolve the items marked in red using the menu on the left.</source>
-      <translation>警告：你的飞机在起飞前应该被正确配置。请检查左侧菜单红色标记的项目。</translation>
+      <translation>警告：你的飞机在起飞前应该被正确配置.请检查左侧菜单红色标记的项目.</translation>
     </message>
   </context>
   <context>
@@ -17964,7 +17964,7 @@ Confirm change?</source>
     <message>
       <location filename="../src/FlightDisplay/VehicleWarnings.qml" line="56"/>
       <source>The vehicle has failed a pre-arm check. In order to arm the vehicle, resolve the failure.</source>
-      <translation>车辆未能进行武装前检查。为了装备车辆，解决故障。</translation>
+      <translation>车辆未能进行武装前检查.为了装备车辆,解决故障.</translation>
     </message>
   </context>
   <context>
@@ -18020,17 +18020,17 @@ Confirm change?</source>
     <message>
       <location filename="../src/VideoManager/VideoManager.cc" line="288"/>
       <source>Video receiver is not ready.</source>
-      <translation>视频接收器尚未就绪。</translation>
+      <translation>视频接收器尚未就绪.</translation>
     </message>
     <message>
       <location filename="../src/VideoManager/VideoManager.cc" line="295"/>
       <source>Invalid video format defined.</source>
-      <translation>无效的视频格式定义。</translation>
+      <translation>无效的视频格式定义.</translation>
     </message>
     <message>
       <location filename="../src/VideoManager/VideoManager.cc" line="306"/>
       <source>Unabled to record video. Video save path must be specified in Settings.</source>
-      <translation>无法录制视频。必须在设置中指定视频保存路径。</translation>
+      <translation>无法录制视频.必须在设置中指定视频保存路径.</translation>
     </message>
   </context>
   <context>
