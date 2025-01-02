@@ -2787,7 +2787,7 @@
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="513"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="513"/>
       <source>This is recommended for vehicles that have only an internal compass and on vehicles where there is significant interference on the compass from the motors, power wires, etc. </source>
-      <translation>推荐在飞机上只装了一个内置罗盘,而且特别容易被电机、电源线等干扰的的情况下,采取这种措施. </translation>
+      <translation>推荐在飞机上只装了一个内置罗盘,而且特别容易被电机.电源线等干扰的的情况下,采取这种措施. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="514"/>
@@ -6291,7 +6291,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="47"/>
       <source>%1 can upgrade the firmware on Pixhawk devices, SiK Radios and PX4 Flow Smart Cameras.</source>
-      <translation>%1 可以升级 Pixhawk 设备、SiK数传和 PX4 光流传感器上的固件.</translation>
+      <translation>%1 可以升级 Pixhawk 设备.SiK数传和 PX4 光流传感器上的固件.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/FirmwareUpgrade.qml" line="48"/>
@@ -11195,7 +11195,7 @@ Is this really what you want?</source>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="79"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="79"/>
       <source>The aircraft flies in a circle around the current position at the current altitude. </source>
-      <translation>飞机在当前高度、当前位置绕圈飞行. </translation>
+      <translation>飞机在当前高度.当前位置绕圈飞行. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="80"/>
@@ -11562,7 +11562,7 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponent.cc" line="27"/>
       <source>Radio Setup is used to calibrate your transmitter. It also assign channels for Roll, Pitch, Yaw and Throttle vehicle control as well as determining whether they are reversed.</source>
-      <translation>遥控器设置,用于校准你的遥控发射机.还用于分配横滚、俯仰、偏航和油门通道,同时也可以确定通道的是否反向.</translation>
+      <translation>遥控器设置,用于校准你的遥控发射机.还用于分配横滚.俯仰.偏航和油门通道,同时也可以确定通道的是否反向.</translation>
     </message>
   </context>
   <context>
