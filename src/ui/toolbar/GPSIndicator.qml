@@ -101,11 +101,12 @@ Item {
         }
 
         QGCLabel {
-            id:         hdopValue
-            visible:    _activeVehicle && !isNaN(_activeVehicle.gps.hdop.value)
+            id:         lockValue
+            visible:    _activeVehicle && _activeVehicle.gps.lock.enumStringValue !== ""
             color:      qgcPal.buttonText
-            text:       _activeVehicle ? _activeVehicle.gps.hdop.value.toFixed(1) : ""
+            text:       _activeVehicle ? _activeVehicle.gps.lock.enumStringValue : ""
         }
+    }
     }
 
     MouseArea {
