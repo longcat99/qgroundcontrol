@@ -182,14 +182,14 @@ Rectangle {
                             }
 
                             FactCheckBox {
-                                text:       qsTr("Update home position based on device location. This will affect return to home")
+                                text:       qsTr("根据设备位置更新起始位置,这会影响回家")
                                 fact:       _updateHomePosition
                                 visible:    _updateHomePosition.visible
                                 property Fact _updateHomePosition: QGroundControl.settingsManager.flyViewSettings.updateHomePosition
                             }
 
                             FactCheckBox {
-                                text:       qsTr("Enable Custom Actions")
+                                text:       qsTr("启用自定义操作")
                                 visible:    _enableCustomActions.visible
                                 fact:       _enableCustomActions
 
@@ -215,7 +215,7 @@ Rectangle {
                                 property string _defaultFile: _defaultDir + "/CustomActions.json"
 
                                 QGCLabel {
-                                    text: qsTr("Custom Action Definitions")
+                                    text: qsTr("自定义操作定义")
 
                                     Layout.columnSpan:  2
                                     Layout.alignment:   Qt.AlignHCenter
@@ -232,7 +232,7 @@ Rectangle {
                                     onClicked:  customActionPathBrowseDialog.openForLoad()
                                     QGCFileDialog {
                                         id:             customActionPathBrowseDialog
-                                        title:          qsTr("Choose the Custom Action Definitions file")
+                                        title:          qsTr("选择自定义操作定义文件")
                                         folder:         customActions.jsonFile.rawValue
                                         selectExisting: true
                                         selectFolder:   false
@@ -240,12 +240,12 @@ Rectangle {
                                         nameFilters: ["JSON files (*.json)"]
                                     }
                                 }
-                                // The file loader on Android doesn't work, so we hard code the path to the
-                                // JSON file. However, we need a button to force a refresh if the JSON file
-                                // is changed.
+                                //Android 上的文件加载器不起作用，因此我们硬编码了文件加载器的路径
+                                //JSON 文件。但是，如果 JSON 文件，我们需要一个按钮来强制刷新
+                                //已更改。
                                 QGCButton {
                                     visible:    ScreenTools.isMobile
-                                    text:       qsTr("Reload")
+                                    text:       qsTr("重新加载")
                                     onClicked:  {
                                         customActions.jsonFile.valueChanged(customActions.jsonFile.rawValue)
                                     }
@@ -256,7 +256,7 @@ Rectangle {
                                 columns: 2
 
                                 QGCLabel {
-                                    text:               qsTr("Guided Command Settings")
+                                    text:               qsTr("引导命令设置")
                                     Layout.columnSpan:  2
                                     Layout.alignment:   Qt.AlignHCenter
                                 }

@@ -15,6 +15,7 @@ import QGroundControl.Controls              1.0
 import QGroundControl.MultiVehicleManager   1.0
 import QGroundControl.ScreenTools           1.0
 import QGroundControl.Palette               1.0
+import QGroundControl.SingletonTest    1.0
 
 //-------------------------------------------------------------------------
 //-- GPS Indicator
@@ -69,7 +70,7 @@ Item {
                     QGCLabel { text: qsTr("VDOP:") }
                     QGCLabel { text: _activeVehicle ? _activeVehicle.gps.vdop.valueString : qsTr("--.--", "No data to display") }
                     QGCLabel { text: qsTr("Course Over Ground:") }
-                    QGCLabel { text: _activeVehicle ? _activeVehicle.gps.courseOverGround.valueString : qsTr("--.--", "No data to display") }
+                    QGCLabel { text: QGroundControl.singletontest.test1}
                 }
             }
         }
@@ -101,10 +102,10 @@ Item {
         }
 
         QGCLabel {
-            id:         hdopValue
-            visible:    _activeVehicle && !isNaN(_activeVehicle.gps.hdop.value)
+            id:         lockValue
+            visible:    _activeVehicle && _activeVehicle.gps.lock.enumStringValue !== ""
             color:      qgcPal.buttonText
-            text:       _activeVehicle ? _activeVehicle.gps.hdop.value.toFixed(1) : ""
+            text:       _activeVehicle ? _activeVehicle.gps.lock.enumStringValue : ""
         }
     }
 
