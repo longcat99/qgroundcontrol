@@ -102,7 +102,7 @@ Item {
 
         QGCLabel {
             id:         lockValue
-            visible:    _activeVehicle && _activeVehicle.gps.lock.enumStringValue !== ""
+            visible:    _activeVehicle && !isNaN(_activeVehicle.gps.lock.enumStringValue) 
             color:      qgcPal.buttonText
             text:       _activeVehicle ? _activeVehicle.gps.lock.enumStringValue : ""
         }
