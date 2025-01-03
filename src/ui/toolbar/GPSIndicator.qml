@@ -107,7 +107,7 @@ Item {
             text:       _activeVehicle ? _activeVehicle.gps.lock.enumStringValue : ""
         }
     }
-    }
+    
 
     MouseArea {
         anchors.fill:   parent
