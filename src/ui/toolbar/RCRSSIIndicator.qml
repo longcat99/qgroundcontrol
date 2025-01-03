@@ -24,7 +24,7 @@ Item {
     anchors.top:    parent.top
     anchors.bottom: parent.bottom
 
-    property bool showIndicator: _activeVehicle.supportsRadio && _rcRSSIAvailable
+    property bool showIndicator: _activeVehicle.supportsRadio
 
     property var    _activeVehicle:     QGroundControl.multiVehicleManager.activeVehicle
     property bool   _rcRSSIAvailable:   _activeVehicle ? _activeVehicle.rcRSSI > 0 && _activeVehicle.rcRSSI <= 100 : false
@@ -85,10 +85,11 @@ Item {
             color:              qgcPal.buttonText
         }
 
-        SignalStrength {
+         QGCLabel {
             anchors.verticalCenter: parent.verticalCenter
-            size:                   parent.height * 0.5
-            percent:                _rcRSSIAvailable ? _activeVehicle.rcRSSI : 0
+           text: _activeVehicle ? (_activeVehicle.rcRSSI + "%") : 0
+        //    size:                   parent.height * 0.5
+       //     percent:                _rcRSSIAvailable ? _activeVehicle.rcRSSI : 0
         }
     }
 

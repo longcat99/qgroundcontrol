@@ -101,12 +101,30 @@ Item {
                 color:              getBatteryColor()
             }
 
-            QGCLabel {
-                text:                   getBatteryPercentageText()
-                font.pointSize:         ScreenTools.mediumFontPointSize
-                color:                  getBatteryColor()
-                anchors.verticalCenter: parent.verticalCenter
-            }
+                        Column {
+                            id:                     battery1ValuesColumn
+                            anchors.verticalCenter: parent.verticalCenter
+
+                            QGCLabel {
+                                anchors.horizontalCenter:   hdopValue1.horizontalCenter
+                                visible:                    true
+                                color:                      getBatteryColor()
+                                text:                       getBatteryPercentageText()
+                            }
+
+                            QGCLabel {
+                                id:         hdopValue1
+                                visible:    true
+                                color:      qgcPal.buttonText
+                                text:      battery.voltage.valueString + battery.voltage.units
+                            }
+                        }
+//            QGCLabel {
+//                text:                   getBatteryPercentageText()
+//                font.pointSize:         ScreenTools.mediumFontPointSize
+//                color:                  getBatteryColor()
+//                anchors.verticalCenter: parent.verticalCenter
+//            }
         }
     }
 
