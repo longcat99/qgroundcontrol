@@ -49,8 +49,8 @@
 },
 {
     "name":                 "Ntrip白名单",
-    "shortDesc":     "RTCM 消息 ID 白名单，逗号分隔",
-    "longDesc":      "RTCM 通过 mavlink 发送的消息。将所有消息留空",
+    "shortDesc":     "RTCM 消息 ID 白名单,逗号分隔",
+    "longDesc":      "RTCM 通过 mavlink 发送的消息.将所有消息留空",
     "type":                 "string",
     "default":         "",
     "qgcRebootRequired":    true
@@ -74,7 +74,7 @@
 {
     "name":                 "Ntrip 从车辆上获取 nmea pos",
     "shortDesc":     "对于 VRS,从车辆的起始位置获取 NMEA 位置",
-    "longDesc":      "启用 VRS 后，当基站位置不可用时,从车辆的起始位置获取 NMEA 位置",
+    "longDesc":      "启用 VRS 后,当基站位置不可用时,从车辆的起始位置获取 NMEA 位置",
     "type":                 "bool",
     "default":         true,
     "qgcRebootRequired":    true
