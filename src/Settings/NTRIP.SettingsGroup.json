@@ -4,77 +4,89 @@
     "QGC.MetaData.Facts":
 [
 {
-    "name":                 "Ntrip 服务器连接已启用",
-    "shortDesc":     "连接到 NTRIP 服务器",
-    "longDesc":      "使用指定地址/端口连接到 NTRIP 服务器",
+    "name":                 "ntripServerConnectEnabled",
+    "shortDesc":     "Connect to NTRIP server",
+    "longDesc":      "Connect to NTRIP server using specified address/port",
     "type":                 "bool",
     "default":         false,
     "qgcRebootRequired":    true
 },
 {
-    "name":                 "Ntrip服务器主机地址",
-    "shortDesc":     "主机地址",
+    "name":                 "ntripServerHostAddress",
+    "shortDesc":     "Host address",
     "type":                 "string",
     "default":         "127.0.0.1",
     "qgcRebootRequired":    true
 },
 {
-    "name":                 "Ntrip服务器端口",
-    "shortDesc":     "服务器端口",
+    "name":                 "ntripServerPort",
+    "shortDesc":     "Server port",
     "type":                 "string",
     "default":         2101,
     "qgcRebootRequired":    true
 },
 {
-    "name":                 "Ntrip用户名e",
-    "shortDesc":     "用户名",
+    "name":                 "ntripUsername",
+    "shortDesc":     "Username",
     "type":                 "string",
     "default":         "",
     "qgcRebootRequired":    true
 },
 {
-    "name":                 "Ntrip密码",
-    "shortDesc":     "密码",
+    "name":                 "ntripPassword",
+    "shortDesc":     "Password",
     "type":                 "string",
     "default":         "",
     "qgcRebootRequired":    true
 },
 {
-    "name":                 "Ntrip挂载点",
-    "shortDesc":     "挂载点",
-    "longDesc":      "Ntrip 挂载点.将 RTCM over TCP 留空",
+    "name":                 "ntripMountpoint",
+    "shortDesc":     "Mount Point",
+    "longDesc":      "NTRIP Mount Point. Leave blank for RTCM over TCP",
     "type":                 "string",
     "default":         "",
     "qgcRebootRequired":    true
 },
 {
+<<<<<<< HEAD
     "name":                 "Ntrip白名单",
     "shortDesc":     "RTCM 消息 ID 白名单,逗号分隔",
     "longDesc":      "RTCM 通过 mavlink 发送的消息.将所有消息留空",
+=======
+    "name":                 "ntripWhitelist",
+    "shortDesc":     "RTCM Message ID Whitelist, comma separated",
+    "longDesc":      "RTCM Messages to send over mavlink. Leave blank for all messages",
+>>>>>>> parent of fb4e5dadc (优化)
     "type":                 "string",
     "default":         "",
     "qgcRebootRequired":    true
 },
 {
-    "name":                 "Ntrip 启用 VRS",
-    "shortDesc":     "启用 NTRIP VRS",
-    "longDesc":      "勾选启用 VRS RTK",
+    "name":                 "ntripEnableVRS",
+    "shortDesc":     "Enable NTRIP VRS",
+    "longDesc":      "Check to Enable VRS RTK",
     "type":                 "bool",
     "default":         false,
     "qgcRebootRequired":    true
 },
 {
     "name":                 "ntripForceNtripV1",
-    "shortDesc":     "强制 NTRIP V1 而不是 V2",
-    "longDesc":      "默认情况下,系统将使用 NTRIP V2 进行连接.选中此框以强制 NTRIP V1",
+    "shortDesc":     "Force NTRIP V1 instead of V2",
+    "longDesc":      "By default the system will connect using NTRIP V2. Check this box to force NTRIP V1",
     "type":                 "bool",
     "default":         false,
     "qgcRebootRequired":    true
 },
 {
+<<<<<<< HEAD
     "name":                 "Ntrip 从车辆上获取 nmea pos",
     "shortDesc":     "对于 VRS,从车辆的起始位置获取 NMEA 位置",
     "longDesc":      "启用 VRS 后,当基站位置不可用时,从车辆的起始位置获取 NMEA 位置",
+=======
+    "name":                 "ntripTakeNmeaPosFromVehicle",
+    "shortDesc":     "For VRS, take NMEA position from vehicle's home position",
+    "longDesc":      "When VRS is enabled, take NMEA position from vehicle's home position when Base Station position is not available",
+>>>>>>> parent of fb4e5dadc (优化)
     "type":                 "bool",
     "default":         true,
     "qgcRebootRequired":    true
