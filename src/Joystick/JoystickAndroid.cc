@@ -28,14 +28,14 @@ JoystickAndroid::JoystickAndroid(const QString& name, int axisCount, int buttonC
     QAndroidJniEnvironment env;
     QAndroidJniObject inputDevice = QAndroidJniObject::callStaticObjectMethod("android/view/InputDevice", "getDevice", "(I)Landroid/view/InputDevice;", id);
 
-    //set button mapping (number->code)
+//设置按钮映射（数字->代码）
     jintArray b = env->NewIntArray(_androidBtnListCount);
     env->SetIntArrayRegion(b,0,_androidBtnListCount,_androidBtnList);
 
     QAndroidJniObject btns = inputDevice.callObjectMethod("hasKeys", "([I)[Z", b);
     jbooleanArray jSupportedButtons = btns.object<jbooleanArray>();
     jboolean* supportedButtons = env->GetBooleanArrayElements(jSupportedButtons, nullptr);
-    //create a mapping table (btnCode) that maps button number with button code
+//创建一个映射表（btnCode），将按钮编号与按钮代码进行映射
     btnValue = new bool[_buttonCount];
     btnCode = new int[_buttonCount];
     int c = 0;
@@ -104,7 +104,7 @@ QMap<QString, Joystick*> JoystickAndroid::discover(MultiVehicleManager* _multiVe
         if (((sources & SOURCE_GAMEPAD) != SOURCE_GAMEPAD) //check if the input device is interesting to us
                 && ((sources & SOURCE_JOYSTICK) != SOURCE_JOYSTICK)) continue;
 
-        // get id and name
+//获取id和名字
         QString id = inputDevice.callObjectMethod("getDescriptor", "()Ljava/lang/String;").toString();
         QString name = inputDevice.callObjectMethod("getName", "()Ljava/lang/String;").toString();
 
@@ -114,11 +114,11 @@ QMap<QString, Joystick*> JoystickAndroid::discover(MultiVehicleManager* _multiVe
             continue;
         }
 
-        // get number of axis
+//获取轴数
         QAndroidJniObject rangeListNative = inputDevice.callObjectMethod("getMotionRanges", "()Ljava/util/List;");
         int axisCount = rangeListNative.callMethod<jint>("size");
 
-        // get number of buttons
+//获取按钮数量
         jintArray a = env->NewIntArray(_androidBtnListCount);
         env->SetIntArrayRegion(a,0,_androidBtnListCount,_androidBtnList);
         QAndroidJniObject btns = inputDevice.callObjectMethod("hasKeys", "([I)[Z", a);
@@ -156,7 +156,7 @@ bool JoystickAndroid::handleKeyEvent(jobject event) {
  
     const int action = ev.callMethod<jint>("getAction", "()I");
     const int keyCode = ev.callMethod<jint>("getKeyCode", "()I");
-
+    qCDebug(JoystickAndroidLog) << "Key event: action=" << action << ", keyCode=" << keyCode;
     for (int i = 0; i <_buttonCount; i++) {
         if (btnCode[i] == keyCode) {
             if (action == ACTION_DOWN) btnValue[i] = true;
