@@ -164,6 +164,7 @@ bool JoystickAndroid::handleKeyEvent(jobject event) {
             return true;
         }
     }
+
     return false;
 }
 
@@ -176,6 +177,7 @@ bool JoystickAndroid::handleGenericMotionEvent(jobject event) {
     for (int i = 0; i <_axisCount; i++) {
         const float v = ev.callMethod<jfloat>("getAxisValue", "(I)F",axisCode[i]);
         axisValue[i] = static_cast<int>((v*32767.f));
+        qCDebug(JoystickLog) << "Axis" << i << "value:" << axisValue[i];
     }
     return true;
 }
