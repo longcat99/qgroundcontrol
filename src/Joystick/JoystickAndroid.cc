@@ -156,7 +156,7 @@ bool JoystickAndroid::handleKeyEvent(jobject event) {
  
     const int action = ev.callMethod<jint>("getAction", "()I");
     const int keyCode = ev.callMethod<jint>("getKeyCode", "()I");
-    qCDebug(JoystickAndroidLog) << "Key event: action=" << action << ", keyCode=" << keyCode;
+    qCDebug(JoystickLog) << "Key event: action=" << action << ", keyCode=" << keyCode;
     for (int i = 0; i <_buttonCount; i++) {
         if (btnCode[i] == keyCode) {
             if (action == ACTION_DOWN) btnValue[i] = true;
