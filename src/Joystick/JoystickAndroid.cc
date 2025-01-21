@@ -173,8 +173,9 @@ bool JoystickAndroid::handleGenericMotionEvent(jobject event) {
     QMutexLocker lock(&m_mutex);
     const int _deviceId = ev.callMethod<jint>("getDeviceId", "()I");
  //   if (_deviceId!=deviceId) return false;
- 
+    qCDebug(JoystickLog) << "Device ID: " << _deviceId;
     for (int i = 0; i <_axisCount; i++) {
+        qCDebug(JoystickLog) << "Axis Code [" << i << "]: " << axisCode[i];
         const float v = ev.callMethod<jfloat>("getAxisValue", "(I)F",axisCode[i]);
         axisValue[i] = static_cast<int>((v*32767.f));
         qCDebug(JoystickLog) << "Axis" << i << "value:" << axisValue[i];
