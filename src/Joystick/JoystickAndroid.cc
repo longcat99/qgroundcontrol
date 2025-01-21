@@ -153,7 +153,7 @@ bool JoystickAndroid::handleKeyEvent(jobject event) {
     QMutexLocker lock(&m_mutex);
     const int _deviceId = ev.callMethod<jint>("getDeviceId", "()I");
  //   if (_deviceId!=deviceId) return false;
- 
+      if (_deviceId!=deviceId) return true;
     const int action = ev.callMethod<jint>("getAction", "()I");
     const int keyCode = ev.callMethod<jint>("getKeyCode", "()I");
     qCDebug(JoystickLog) << "Key event: action=" << action << ", keyCode=" << keyCode;
@@ -173,6 +173,7 @@ bool JoystickAndroid::handleGenericMotionEvent(jobject event) {
     QMutexLocker lock(&m_mutex);
     const int _deviceId = ev.callMethod<jint>("getDeviceId", "()I");
  //   if (_deviceId!=deviceId) return false;
+    if (_deviceId!=deviceId) return true;
     qCDebug(JoystickLog) << "Device ID: " << _deviceId;
     for (int i = 0; i <_axisCount; i++) {
         qCDebug(JoystickLog) << "Axis Code [" << i << "]: " << axisCode[i];
