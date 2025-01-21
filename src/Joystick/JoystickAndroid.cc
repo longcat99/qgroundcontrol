@@ -152,7 +152,7 @@ bool JoystickAndroid::handleKeyEvent(jobject event) {
     QJNIObjectPrivate ev(event);
     QMutexLocker lock(&m_mutex);
     const int _deviceId = ev.callMethod<jint>("getDeviceId", "()I");
-    if (_deviceId!=deviceId) return false;
+ //   if (_deviceId!=deviceId) return false;
  
     const int action = ev.callMethod<jint>("getAction", "()I");
     const int keyCode = ev.callMethod<jint>("getKeyCode", "()I");
@@ -172,7 +172,7 @@ bool JoystickAndroid::handleGenericMotionEvent(jobject event) {
     QJNIObjectPrivate ev(event);
     QMutexLocker lock(&m_mutex);
     const int _deviceId = ev.callMethod<jint>("getDeviceId", "()I");
-    if (_deviceId!=deviceId) return false;
+ //   if (_deviceId!=deviceId) return false;
  
     for (int i = 0; i <_axisCount; i++) {
         const float v = ev.callMethod<jfloat>("getAxisValue", "(I)F",axisCode[i]);
